@@ -7,7 +7,7 @@ include('header.php');
 
 
 <!-- Section General Title -->
-<div class="general-title bg-color"> 
+<div class="general-title bg-color">
     <h2>Contact us</h2>
     <div class="title-divider"></div>
 </div>
@@ -16,43 +16,43 @@ include('header.php');
 <div class="site-wrapper">
 
     <!-- Contact -->
-    <div class="container padding-bottom text-center contact-address">         
+    <div class="container padding-bottom text-center contact-address">
         <!-- All Contact Information (phone, street, email, website, working hours) -->
         <div class="row">
-                    <!-- Address -->                       
+                    <!-- Address -->
                     <div class="col-sm-4 col-md-4">
-                        <h3>Address</h3> 
-                        <address>                            
+                        <h3>Address</h3>
+                        <address>
                             <p>
-                                Nagymező str. 9.<br>
-                                H-1061 Budapest<br>
-                                (Code Showroom)<br>                           
-                            </p>                               
-                        </address>                                
+                                Király str. 47.<br>
+                                H-1077 Budapest<br>
+                                (Spirithome Furnishings)<br>                           
+                            </p>
+                        </address>
                     </div>
                     <!-- Contact Information -->
                     <div class="col-sm-4 col-md-4">
                         <h3>Contact info</h3>
-                        <address>                            
+                        <address>
                             <p>
                                 <a href="mailto:info@lafenice.hu"><i class="fa fa-envelope-o"></i>info@lafenice.hu</a><br>
-                                <i class="fa fa-phone"></i>+36 70 635 7992<br>   
-                                <i class="fa fa-phone"></i>+36 70 635 7991<br>    
+                                <i class="fa fa-phone"></i>+36 70 635 7992<br>
+                                <i class="fa fa-phone"></i>+36 70 635 7991<br>
                             </p>
-                        </address>                                
+                        </address>
                     </div>
                     <!-- Working Hours -->
                     <div class="col-sm-4 col-md-4">
                         <h3>Office hours</h3>
-                        <address>                            
+                        <address>
                             <p>
                                 Monday to Saturday<br>
-                                by appointment                         
+                                by appointment
                             </p>
                         </address>
-                    </div>            
+                    </div>
                 </div><!-- /row -->
-                <!-- End All Contact Information -->        
+                <!-- End All Contact Information -->
 
             </div><!-- /container -->
             <!-- End Contact -->
