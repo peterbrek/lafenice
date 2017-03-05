@@ -26,7 +26,7 @@ include('header.php');
                             <p>
                                 Király utca 47.<br>
                                 1077 Budapest<br>
-                                (Nagymező utca – Király utca sarka, Spirithome Lakberendezés)<br>                           
+                                (Nagymező utca – Király utca sarka, <br>Spirithome Lakberendezés)<br>                           
                             </p>
                         </address>
                     </div>
