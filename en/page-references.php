@@ -7,7 +7,7 @@ include('header.php');
 
 
 <!-- Section General Title -->
-<div class="general-title bg-color"> 
+<div class="general-title bg-color">
     <h2>References</h2>
     <div class="title-divider"></div>
 </div>
@@ -18,10 +18,75 @@ include('header.php');
     <!-- Projects -->
     <div class="container">
         <div class="row">
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
+              <a href="<?= URL?>/tarsashazi-lakas">
+              <div class="thumbnail projects-thumbnail">
 
+                  <!-- Image -->
+                  <img src="../assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg" alt="Budai társasházi lakás">
 
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
 
-            
+                      <div class="project-title-pos">
+                      <h3>Hillside flat</h3>
+                      <p>&nbsp;</p>
+                      </div>
+
+                  <!-- City and Date -->
+
+              </div>
+              </a>
+          </div>
+
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
+              <a href="<?= URL?>/modern-haz">
+              <div class="thumbnail projects-thumbnail">
+
+                  <!-- Image -->
+                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-2.jpg" alt="Modern családi ház">
+
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
+
+                      <div class="project-title-pos">
+                      <h3>Modern family house</h3>
+                      <p>&nbsp;</p>
+                      </div>
+
+                  <!-- City and Date -->
+
+              </div>
+              </a>
+          </div>
+
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
+              <a href="<?= URL?>/videki-csaladi-haz">
+              <div class="thumbnail projects-thumbnail">
+
+                  <!-- Image -->
+                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
+
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
+
+                      <div class="project-title-pos">
+                      <h3>Countryside family house</h3>
+                      <p>&nbsp;</p>
+                      </div>
+
+                  <!-- City and Date -->
+
+              </div>
+              </a>
+          </div>
+
 
 
 
@@ -36,14 +101,14 @@ include('header.php');
                 </div>
                 <div class="project-inner-caption">
                     <!-- Title -->
-                    
+
                         <div class="project-title-pos">
                         <h3>Countryside family house</h3>
                         <p>&nbsp;</p>
                         </div>
-                    
+
                     <!-- City and Date -->
-                    
+
                 </div>
                 </a>
             </div>
@@ -64,7 +129,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
                 </a>
             </div>
@@ -85,7 +150,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
                 </a>
             </div>
@@ -106,7 +171,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
                 </a>
             </div>
@@ -127,7 +192,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -148,7 +213,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -169,12 +234,12 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
 
-            
+
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
@@ -192,7 +257,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -204,7 +269,7 @@ include('header.php');
 
 
 
-            
+
 
 
 
@@ -225,7 +290,7 @@ include('header.php');
 </div>
 
     <!-- Section General Title -->
-    <div class="general-title bg-color"> 
+    <div class="general-title bg-color">
         <h2>Contract Projects</h2>
         <div class="title-divider"></div>
     </div>
@@ -253,7 +318,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -274,7 +339,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -295,7 +360,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -316,7 +381,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -337,7 +402,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -358,7 +423,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -373,7 +438,7 @@ include('header.php');
 
 
    <!-- Section General Title -->
-    <div class="general-title bg-color"> 
+    <div class="general-title bg-color">
         <h2>Others</h2>
         <div class="title-divider"></div>
     </div>
@@ -401,7 +466,7 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
@@ -422,13 +487,13 @@ include('header.php');
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
-                    
+
                 </div>
             </a>
             </div>
 
 
-            
+
 
 
         </div>

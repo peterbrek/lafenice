@@ -21,12 +21,19 @@ include('header.php');
         <div class="row">
                     <!-- Address -->
                     <div class="col-sm-4 col-md-4">
-                        <h3>Címünk</h3>
+                        <h3>Bemutatótermeink</h3>
+                        <address>
+                            <p>
+                                Andrássy út 14., 1. emelet<br>
+                                1061 Budapest<br>
+                            </p>
+                        </address>
+
                         <address>
                             <p>
                                 Király utca 47.<br>
                                 1077 Budapest<br>
-                                (Nagymező utca – Király utca sarka, <br>Spirithome Lakberendezés)<br>                           
+                                (Spirithome Lakberendezés)<br>
                             </p>
                         </address>
                     </div>

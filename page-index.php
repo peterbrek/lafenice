@@ -13,79 +13,79 @@ include('header.php');
 
 
 <!-- Slider -->
-        <div id="header-carousel" class="carousel slide carousel-fade header-carousel hidden-xs" data-ride="carousel"> 
+        <div id="header-carousel" class="carousel slide carousel-fade header-carousel hidden-xs" data-ride="carousel">
             <!-- Slider Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#header-carousel" data-slide-to="1"></li>   
-                <li data-target="#header-carousel" data-slide-to="2"></li>   
-            </ol>   
-            <div class="carousel-inner">    
+                <li data-target="#header-carousel" data-slide-to="1"></li>
+                <li data-target="#header-carousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
 
-                <!-- Slider Item (image, link and description for your project in slider) -->        
-                <div class="item active" style="background-image: url('assets/img/slider-images/image1.jpg');"> 
-                    <!-- Image --> 
+                <!-- Slider Item (image, link and description for your project in slider) -->
+                <div class="item active" style="background-image: url('assets/img/slider-images/image1.jpg');">
+                    <!-- Image -->
                     <!-- TODO -->
 
-                         
-                    <!-- Description -->      
+
+                    <!-- Description -->
                     <div class="carousel-caption header-carousel-caption">
-                        
+
                         <div class="quote">
                             <h1>„Az otthonunk önmagunk tükörképe”</h1>
-                            <div class="quote-divider-small"></div> 
+                            <div class="quote-divider-small"></div>
                             <footer>J. H. Smith</footer>
                         </div>
                     </div>
                 </div>
-                
-                
-                <!-- Slider Item (image, link and description for your project in slider) -->        
-                <div class="item" style="background-image: url('assets/img/slider-images/image2.jpg');"> 
-                    <!-- Image --> 
-                    <!-- TODO -->      
-                   <!-- <img src="assets/img/slider-images/image2.jpg">     
-                    <!-- Description -->      
+
+
+                <!-- Slider Item (image, link and description for your project in slider) -->
+                <div class="item" style="background-image: url('assets/img/slider-images/image2.jpg');">
+                    <!-- Image -->
+                    <!-- TODO -->
+                   <!-- <img src="assets/img/slider-images/image2.jpg">
+                    <!-- Description -->
                     <div class="carousel-caption header-carousel-caption">
-                        
+
                       <div class="quote">
                        <h1>„Az otthonunk önmagunk tükörképe”</h1>
-                        <div class="quote-divider-small"></div> 
+                        <div class="quote-divider-small"></div>
                         <footer>J. H. Smith</footer>
                     </div>
                 </div>
                 </div>
 
-                <!-- Slider Item (image, link and description for your project in slider) -->        
-               <div class="item" style="background-image: url('assets/img/slider-images/image3.jpg');"> 
-                    <!-- Image --> 
-                    <!-- TODO -->      
-                   <!-- <img src="assets/img/slider-images/image3.jpg">     
-                    <!-- Description -->      
+                <!-- Slider Item (image, link and description for your project in slider) -->
+               <div class="item" style="background-image: url('assets/img/slider-images/image3.jpg');">
+                    <!-- Image -->
+                    <!-- TODO -->
+                   <!-- <img src="assets/img/slider-images/image3.jpg">
+                    <!-- Description -->
                    <div class="carousel-caption header-carousel-caption">
-                        
+
                         <div class="quote">
                         <h1>„Az otthonunk önmagunk tükörképe”</h1>
-                        <div class="quote-divider-small"></div> 
+                        <div class="quote-divider-small"></div>
                         <footer>J. H. Smith</footer>
                     </div>
                 </div>
                 </div>
 
 
-                       
-            </div>   
+
+            </div>
         </div>
         <!-- End Slider -->
 
         <!-- Site Wrapper -->
         <div class="site-wrapper">
 
-            <!-- Who We Are -->            
+            <!-- Who We Are -->
             <div class="container text-center">
                 <!-- Section General Title -->
                 <div class="general-title">
-                    <h2>Rólunk</h2>        
+                    <h2>Rólunk</h2>
                     <div class="title-divider"></div>
                 </div>
                 <div class="row">
@@ -93,159 +93,159 @@ include('header.php');
                   <div class="col-md-10 col-md-offset-1">
                     <p>Cégünk 20 éve foglalkozik exkluzív lakástextilek, függönyanyagok, karnisok, tapéták, és egyéb kiegészítők <br/>– ágytakarók, párnák, szőnyegek – forgalmazásával és készítésével.<br/>
                     Megrendelőink elsősorban magánemberek, de vállaljuk kisebb Hotelek, éttermek, irodák árnyékolástechnikai munkáit is
-                    </p>        
-                  </div>          
-                </div><!-- /row -->       
-            </div><!-- /container -->                   
+                    </p>
+                  </div>
+                </div><!-- /row -->
+            </div><!-- /container -->
             <!-- End Who We Are -->
 
-            <!-- Projects -->            
+            <!-- Projects -->
             <div class="container-fluid projects padding-top">
                 <div class="row">
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak">  
-                                <!-- Image -->                  
-                                <img src="assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                            
+
+                                        <h3>Budai társasházi lakás</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/17_modern_haz/modern-haz-2.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Modern családi ház</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
                                         <h3>Vidéki családi ház</h3>
-                                        <p><small>&nbsp;</small></p>                                               
+                                        <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>                                
+                    </div>
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak">    
-                                <!-- Image -->                
-                                <img src="assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                        
+
                                         <h3>Andrássy úti penthouse</h3>
-                                        <p><small>&nbsp;</small></p>                                                
+                                        <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>                            
+                    </div>
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak"> 
-                                <!-- Image -->                   
-                                <img src="assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                                     
+
                                         <h3>Budai lakás</h3>
-                                        <p><small>&nbsp;</small></p>                            
+                                        <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>                    
+                    </div>
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak">  
-                                <!-- Image -->                  
-                                <img src="assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                                
+
                                         <h3>Tóparti nyaraló</h3>
-                                        <p><small>&nbsp;</small></p>                            
+                                        <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>        
+                    </div>
 
                     <!-- Project Item (image,link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak">    
-                                <!-- Image -->                
-                                <img src="assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                        
+
                                         <h3>Cordia galériás lakás</h3>
-                                        <!--<p><small>2013</small></p>-->                                                
+                                        <!--<p><small>2013</small></p>-->
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>                        
+                    </div>
 
                     <!-- Project Item (image,link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
-                            <a href="referenciak">  
-                                <!-- Image -->                  
-                                <img src="assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg">                    
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
-                                        
+
                                         <h3>Óbudai lakás</h3>
-                                        <!--<p><small>2013</small></p>-->                                                
+                                        <!--<p><small>2013</small></p>-->
                                     </div>
                                 </div>
                             </a>
                         </div>
-                    </div>                    
-
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">   
-                                <!-- Image -->                 
-                                <img src="assets/img/portfolio/07_szemlohegyliget/szemlohegyliget-1.jpg">                    
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-                                        
-                                        <h3>Szemlőhegyliget Lakópark</h3>
-                                        <!--<p><small>2013</small></p>-->                                                    
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>                    
-
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">    
-                                <!-- Image -->                    
-                                <img src="assets/img/portfolio/09_kozuleti_budai-bevasarlokozpont-uzlete/kozuleti_budai-bevasarlokozpont-uzlete-1.jpg">                        
-                                <div class="project-caption">
-                                    <!-- Title and Date --> 
-                                    <div class="project-details">
-                                        
-                                        <h3>Budai Bevásárlóközpont üzlete</h3>
-                                        <!--<p><small>2013/08</small></p>-->                                                    
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>                    
+                    </div>
 
                 </div><!-- /row -->
             </div><!-- /container -->
@@ -256,42 +256,42 @@ include('header.php');
                     További referenciák
                 </a>
             </div>
-                            
+
             <!-- End Projects -->
 
-            <!-- Our Services -->            
-            <div class="container padding-top text-center"> 
-                <!-- Section General Title -->       
+            <!-- Our Services -->
+            <div class="container padding-top text-center">
+                <!-- Section General Title -->
                 <div class="general-title">
-                    <h2>Szolgáltatások</h2>        
+                    <h2>Szolgáltatások</h2>
                     <div class="title-divider"></div>
-                </div>  
-                <!-- Section Description -->             
-                <div class="row padding-top"> 
+                </div>
+                <!-- Section Description -->
+                <div class="row padding-top">
 
-                    <!-- Services Item (icon, title and description for your service) -->                        
-                    <div class="col-sm-4">  
+                    <!-- Services Item (icon, title and description for your service) -->
+                    <div class="col-sm-4">
                         <!-- Icon -->
-                        <div>                                
+                        <div>
                             <!-- TODO -->
-                            <img src="assets/img/services/forgalmazas.svg" width="35%">   
-                        </div> 
-                        <!-- Title -->  
-                        <div class="service-title">      
-                            <h3>Lakástextilek és kiegészítők forgalmazása</h3> 
-                        </div> 
-                        <div class="title-divider-small"></div>  
-                        <!-- Description -->                  
+                            <img src="assets/img/services/forgalmazas.svg" width="35%">
+                        </div>
+                        <!-- Title -->
+                        <div class="service-title">
+                            <h3>Lakástextilek és kiegészítők forgalmazása</h3>
+                        </div>
+                        <div class="title-divider-small"></div>
+                        <!-- Description -->
                         <p>Többezer minta alapján, rendelésre dolgozunk. Európai beszállítóink rövid határidőre vállalják a gyártást. Külső-és belső árnyékolókat is egyedi méretre készítünk.</p>
                     </div>
 
                     <!-- Services Item (icon, title and description for your service) -->
                     <div class="col-sm-4">
-                        <!-- Icon -->  
-                        <div>                                
+                        <!-- Icon -->
+                        <div>
                             <!-- TODO -->
-                            <img src="assets/img/services/tanacsadas.svg" width="35%">   
-                        </div> 
+                            <img src="assets/img/services/tanacsadas.svg" width="35%">
+                        </div>
                         <!-- Title -->
                         <div class="service-title">
                             <h3>Termékekhez kötődő lakberendezési tanácsadás</h3>
@@ -301,28 +301,28 @@ include('header.php');
                         <p>Sokéves tapasztalatunk, és a velünk dolgozó belsőépítészek véleményezésével segítünk Önnek megtalálni a legjobb-legszebb megoldást lakása árnyékolására.
                         Igény esetén látványtervek készítését is vállaljuk.
                         </p>
-                    </div>                        
+                    </div>
 
                     <!-- Services Item (icon, title and description for your service) -->
                     <div class="col-sm-4">
                         <!-- Icon -->
-                       <div>                                
+                       <div>
                             <!-- TODO -->
-                            <img src="assets/img/services/felmeres.svg" width="35%">   
-                        </div> 
+                            <img src="assets/img/services/felmeres.svg" width="35%">
+                        </div>
                         <!-- Title -->
                         <div class="service-title">
                             <h3>Helyszíni felmérés, árajánlat készítés</h3>
                         </div>
                          <div class="title-divider-small"></div>
                         <!-- Description -->
-                        <p>Szakembereink meglátogatják Önt otthonában, és pontos méretvétel után elkészítik a részletes árajánlatot.</p>                 
-                    </div>                          
+                        <p>Szakembereink meglátogatják Önt otthonában, és pontos méretvétel után elkészítik a részletes árajánlatot.</p>
+                    </div>
 
                 </div><!-- /row -->
 
-                <!-- View All Services Button -->  
-                <div class="padding-top padding-bottom">  
+                <!-- View All Services Button -->
+                <div class="padding-top padding-bottom">
                     <a href="szolgaltatasok" class="btn black-btn">
                         További szolgáltatások
                     </a>
@@ -330,8 +330,8 @@ include('header.php');
 
             </div><!-- /container -->
             <!-- End Our Services -->
-                
-            
+
+
 
         </div><!-- /site-wrapper -->
         <!-- End Site Wrapper -->

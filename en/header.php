@@ -41,7 +41,7 @@ if ($index_page) {
         <!-- Css Global Compulsory -->
         <link rel="stylesheet" href="<?= URL?>/../assets/plugins/bootstrap/css/bootstrap.min.css">
         <!-- Css Implementing Plugins -->
-        <link rel="stylesheet" href="<?= URL?>/../assets/plugins/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="<?= URL?>/../assets/plugins/lightbox/css/lightbox.css">
         <!-- Css Theme -->
         <link rel="stylesheet" href="<?= URL?>/../assets/css/style.css">

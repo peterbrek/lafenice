@@ -111,15 +111,15 @@ include('header.php');
                 <div class="col-sm-4 col-md-3 team-item col-centered">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="assets/img/rolunk/takacs_nora.jpg">
+                        <img src="assets/img/rolunk/balint_zsofia.jpg">
                     </div>
                     <div class="team-caption">
                         <!-- Name -->
                         <div class="team-title-small">
-                            <h3>Takács Nóra</h3>
+                            <h3>Bálint Zsófia</h3>
                         </div>
                         <!-- Info -->
-                        <h5>építész-belsőépítész</h5>
+                        <h5>okl. építész mérnök</h5>
 
                     </div>
                 </div>
@@ -129,12 +129,12 @@ include('header.php');
                 <div class="col-sm-4 col-md-3 team-item col-centered">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="assets/img/rolunk/sebestyen_sara.jpg">
+                        <img src="assets/img/rolunk/besenyei_krisztina.jpg">
                     </div>
                     <div class="team-caption">
                         <!-- Name -->
                         <div class="team-title-small">
-                            <h3>Sebestyén Sára</h3>
+                            <h3>Besenyei Krisztina</h3>
                         </div>
                         <!-- Info -->
                         <h5>enteriör és personal stylist</h5>
@@ -166,15 +166,15 @@ include('header.php');
                 <div class="col-sm-4 col-md-3 team-item col-centered">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="assets/img/rolunk/balint_zsofia.jpg">
+                        <img src="assets/img/rolunk/takacs_nora.jpg">
                     </div>
                     <div class="team-caption">
                         <!-- Name -->
                         <div class="team-title-small">
-                            <h3>Bálint Zsófia</h3>
+                            <h3>Takács Nóra</h3>
                         </div>
                         <!-- Info -->
-                        <h5>okl. építész mérnök</h5>
+                        <h5>építész-belsőépítész</h5>
 
                     </div>
                 </div>
