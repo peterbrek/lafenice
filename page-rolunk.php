@@ -137,7 +137,7 @@ include('header.php');
                             <h3>Besenyei Krisztina</h3>
                         </div>
                         <!-- Info -->
-                        <h5>enteriör és personal stylist</h5>
+                        <h5>lakberendező</h5>
 
                     </div>
                 </div>

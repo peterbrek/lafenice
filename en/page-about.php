@@ -135,7 +135,7 @@ include('header.php');
                             <h3>Krisztina Besenyei</h3>
                         </div>
                         <!-- Info -->
-                        <h5>interior designer and personal stylist</h5>
+                        <h5>interior stylist</h5>
 
                     </div>
                 </div>

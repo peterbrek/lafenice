@@ -21,7 +21,7 @@ include('header.php');
         <div class="row">
                     <!-- Address -->
                     <div class="col-sm-4 col-md-4">
-                        <h3>Our Showrooms</h3>
+                        <h3>Our Showroom</h3>
                         <address>
                             <p>
                                 Andrássy str. 14., 1st floor<br>
@@ -29,13 +29,13 @@ include('header.php');
                             </p>
                         </address>
 
-                        <address>
+                        <!-- <address>
                             <p>
                                 Király str. 47.<br>
                                 H-1077 Budapest<br>
                                 (Spirithome Furnishings)<br>
                             </p>
-                        </address>
+                        </address> -->
                     </div>
                     <!-- Contact Information -->
                     <div class="col-sm-4 col-md-4">
