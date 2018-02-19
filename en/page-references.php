@@ -88,31 +88,6 @@ include('header.php');
           </div>
 
 
-
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/videki-csaladi-haz">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-
-                        <div class="project-title-pos">
-                        <h3>Countryside family house</h3>
-                        <p>&nbsp;</p>
-                        </div>
-
-                    <!-- City and Date -->
-
-                </div>
-                </a>
-            </div>
-
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
                 <a href="<?= URL?>/andrassy-uti-penthouse">

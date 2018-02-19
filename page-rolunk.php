@@ -40,7 +40,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="assets/img/rolunk/bemutatotermunk-1.jpg" alt="Bemutatótermünk">
+                            <img src="assets/img/rolunk/bemutatotermunk.jpg" alt="Bemutatótermünk">
                         </div>
 
 
