@@ -1,24 +1,28 @@
 <!-- Footer -->
         <div id="footer">
-            <div class="container">   
-                <div class="row"> 
-                    <!-- Copyright -->                                    
+            <div class="container">
+                <div class="row">
+                    <!-- Copyright -->
                     <div class="col-xs-4">
-                        <p>Copyright 2016 © La Fenice Kft.</p>
+                        <p>Copyright 2018 © La Fenice Kft.</p>
                     </div>
                     <!-- Footer Social Icons -->
                     <div class="col-xs-4 text-center">
-                        <a href="https://www.facebook.com/LaFenice-Lak%C3%A1stextil-%C3%A9s-F%C3%BCgg%C3%B6nyszalon-198297860235814/" target="_blank">
+
+                        <a href="https://www.facebook.com/LaFenice-Lak%C3%A1stextil-%C3%A9s-F%C3%BCgg%C3%B6nyszalon-198297860235814/" target="_blank" style="margin-right: 20px">
                             <i class="fa fa-facebook fa-lg"></i>
                         </a>
+                        <a href="https://www.instagram.com/lafeniceinteriors/" target="_blank">
+                            <i class="fa fa-instagram fa-lg"></i>
+                        </a>
 
-                    </div> 
+                    </div>
                     <!-- Up Button -->
                     <div class="col-xs-4 back-to-top">
                         <a href="#">
                             <i class="fa fa-angle-up fa-2x pull-right"></i>
                         </a>
-                    </div>                                                                                                                                                 
+                    </div>
                 </div><!-- /row -->
             </div><!-- /container -->
         </div>

@@ -41,7 +41,7 @@ if ($index_page) {
         <!-- Css Global Compulsory -->
         <link rel="stylesheet" href="<?= URL?>/assets/plugins/bootstrap/css/bootstrap.min.css">
         <!-- Css Implementing Plugins -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">   
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="<?= URL?>/assets/plugins/lightbox/css/lightbox.css">
         <!-- Css Theme -->
         <link rel="stylesheet" href="<?= URL?>/assets/css/style.css">
@@ -58,7 +58,7 @@ if ($index_page) {
         <nav class="navbar navbar-default header-navbar" role="navigation">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -74,7 +74,7 @@ if ($index_page) {
                         </div>
                     </div>
 
-                    <div class="col-md-8">
+                    <div class="col-md-9">
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
