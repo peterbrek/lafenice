@@ -79,7 +79,8 @@ include('header.php');
                         <div class="project-description">
                             <p>A frissen felújított, teljesen átalakított budai házat a Tulajdonos elképzelései alapján igyekeztünk modernné, de ugyanakkor lággyá varázsolni.</p>
                             <p>Az emeleti  hálószobákban mindenhol a svájci luxustermékeket gyártó  Christian Fischbacher gyűrt fényáteresztő anyaga, és puha dekor- bársonyai dominálnak, a hangulathoz igazodó színekben.</p>
-                            <p>A földszinten a konyha, és az étkező légterében teljesen más stílusban - igazodva a modern bútorokhoz - anyaghatású rolettákat, és pliszé-árnyékolókat helyeztünk el,melyek az osztrák LEHA gyár termékei.</p>
+                            <p>A földszinten a konyha, és az étkező légterében teljesen más stílusban – igazodva a modern bútorokhoz – anyaghatású rolettákat, és pliszé-árnyékolókat helyeztünk el,melyek az osztrák LEHA gyár termékei.</p>
+                            <p>A konyhai padlót a német JAB cég könnyen tisztítható, egyedi méretben készülő szizál szőnyegével tettük hangulatosabbá.</p>
 
                         </div>
                     </div>
