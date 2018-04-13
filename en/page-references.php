@@ -20,6 +20,29 @@ include('header.php');
         <div class="row">
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
+              <a href="<?= URL?>/belvarosi-lakas">
+              <div class="thumbnail projects-thumbnail">
+
+                  <!-- Image -->
+                  <img src="../assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg" alt="Belvárosi lakás">
+
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
+
+                      <div class="project-title-pos">
+                      <h3>Downtown apartment</h3>
+                      <p>&nbsp;</p>
+                      </div>
+
+                  <!-- City and Date -->
+
+              </div>
+              </a>
+          </div>
+
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
               <a href="<?= URL?>/tarsashazi-lakas">
               <div class="thumbnail projects-thumbnail">
 
