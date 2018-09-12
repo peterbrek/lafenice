@@ -206,7 +206,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="../assets/img/termekek/karnisok.jpg" alt="Specifie an alternate text for an image">                                
+                        <img src="../assets/img/termekek/karnisok.jpg" alt="">                                
                     </div>
                     <div class="team-caption">
                         <!-- Info -->

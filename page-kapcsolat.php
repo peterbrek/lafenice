@@ -68,7 +68,7 @@ include('header.php');
         <!-- End Site Wrapper -->
 
         <!-- Google Map (adress on map can be changed in app.js file) -->
-        <div id="map-canvas"></div>
+        <!-- <div id="map-canvas"></div> -->
         <!-- End Google Map -->
 
 

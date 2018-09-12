@@ -81,6 +81,7 @@ if ($index_page) {
                                 <!-- <li class="active"><a href="index.html">Home</a></li> -->
                                 <li><a href="<?= URL?>/rolunk">Rólunk</a></li>
                                 <li><a href="<?= URL?>/szolgaltatasok">Szolgáltatások</a></li>
+                                <li><a href="<?= URL?>/termekek">Termékek</a></li>
                                 <li><a href="<?= URL?>/referenciak">Referenciák</a></li>
                                 <li><a href="<?= URL?>/kapcsolat">Kapcsolat</a></li>
                                 <li><a href="<?= URL?>/en" style="color:#DBC598;">English</a></li>

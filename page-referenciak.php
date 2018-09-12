@@ -33,7 +33,7 @@ include('header.php');
                     <!-- Title -->
 
                         <div class="project-title-pos">
-                        <h3>Budai társasházi lakás</h3>
+                        <h3>Belvárosi lakás</h3>
                         <p>&nbsp;</p>
                         </div>
 
@@ -335,27 +335,6 @@ include('header.php');
                     <!-- Title -->
                     <div class="project-title-pos">
                         <h3>Mirage Hotel Sárvár</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/golfklub">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="assets/img/portfolio/11_kozuleti_golfklub/kozuleti_golfklub-1.jpg" alt="Pannónia Golf & Country Club">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Pannónia Golf & Country Club</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
