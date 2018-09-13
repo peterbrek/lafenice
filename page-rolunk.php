@@ -186,52 +186,7 @@ include('header.php');
     </section>
     <!-- End Our Team -->
 
-    <!-- Our Clients -->
-    <div class="container text-center padding-top padding-bottom">
-        <div class="row">
-
-
-
-            <!-- Client Image -->
-            <div class="col-sm-6 col-md-2 col-md-offset-1">
-                <a href="http://www.jab.de/" target="_blank">
-                    <img src="assets/img/termekek/jab-logo.jpg" width="160px">
-                </a>
-            </div>
-
-            <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
-                <a href="http://www.saum-und-viebahn.de/" target="_blank">
-                    <img src="assets/img/termekek/saum-logo.jpg" width="160px">
-                </a>
-            </div>
-
-            <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
-                <a href="http://www.prestigious.co.uk/" target="_blank">
-                    <img src="assets/img/termekek/pt-logo.jpg" width="160px">
-                </a>
-            </div>
-
-            <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
-                <a href="http://www.fischbacher.com/" target="_blank">
-                    <img src="assets/img/termekek/fsb-logo.jpg" width="160px">
-                </a>
-            </div>
-
-            <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
-                <a href="http://www.umbroll.hu/" target="_blank">
-                    <img src="assets/img/termekek/umbroll-logo.jpg" width="160px">
-                </a>
-            </div>
-
-
-
-        </div><!-- /row -->
-    </div><!-- /container -->
-    <!-- End Our Clients -->
+    
 
 </div><!-- /site-wrapper -->
 <!-- End Site Wrapper -->

@@ -300,6 +300,26 @@ include('header.php');
     <div class="container">
         <div class="row">
 
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
+              <a href="<?= URL?>/stand-etterem">
+              <div class="thumbnail projects-thumbnail">
+
+                  <!-- Image -->
+                  <img src="assets/img/portfolio/20_stand-etterem/stand-etterem-1.jpg" alt="STAND Étterem">
+
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
+                  <div class="project-title-pos">
+                      <h3>STAND Étterem</h3>
+                      <p>&nbsp;</p>
+                  </div>
+                  <!-- City and Date -->
+
+              </div>
+          </a>
+          </div>
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
