@@ -49,6 +49,7 @@ include('header.php');
                 <p>Sokéves tapasztalatunk, és a velünk dolgozó belsőépítészek véleményezésével segítünk Önnek megtalálni a legjobb-legszebb megoldást lakása árnyékolására.
                     Igény esetén látványtervek készítését is vállaljuk.
                 </p>
+                <p><a href="#csomagok">Lakberendezési csomagok</a></p>
             </div>
 
             <!-- Services Item (icon, title and description for your service) -->
@@ -57,17 +58,32 @@ include('header.php');
 
                 <!-- Title -->
                 <div class="service-title">
-                    <h3>Helyszíni felmérés, árajánlat készítés</h3>
+                    <h3>Függönyök és árnyékolók készítése, egyedi méretben</h3>
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>Szakembereink meglátogatják Önt otthonában, és pontos méretvétel után elkészítik a részletes árajánlatot.</p>
+                <p>Több ezer minta alapján, rendelésre dolgozunk. Európai beszállítóink rövid határidőre vállalják a gyártást. Külső-és belső árnyékolókat is egyedi méretre készítünk.
+Szakembereink meglátogatják Önt otthonában, és pontos méretvétel után elkészítik a részletes árajánlatot.
+Forgalmazott termékeinket előre egyeztetett időpontban a helyszínre szállítjuk, és felszereljük, a függönyöket felakasztjuk.
+</p>
             </div>
 
         </div><!-- /row -->
 
 
         <div class="row padding-top-2">
+          <!-- Services Item (icon, title and description for your service) -->
+          <div class="col-sm-4 col-md-4">
+              <!-- Icon -->
+
+              <!-- Title -->
+              <div class="service-title">
+                  <h3>Helyszíni felmérés, árajánlat készítés</h3>
+              </div>
+              <div class="title-divider-small"></div>
+              <!-- Description -->
+              <p>Szakembereink meglátogatják Önt otthonában, és pontos méretvétel után elkészítik a részletes árajánlatot.</p>
+          </div>
 
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
@@ -96,8 +112,14 @@ include('header.php');
                 </p>
             </div>
 
-            <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4">
+
+
+        </div><!-- /row -->
+
+
+        <div class="row padding-top-2">
+
+            <div class="col-sm-4 col-md-4 col-md-offset-2 col-sm-offset-2">
                 <!-- Icon -->
 
                 <!-- Title -->
@@ -109,13 +131,8 @@ include('header.php');
                 <p>Komplex szolgáltatásunkkal házhoz megyünk, leszedjük, kitisztíttatjuk, és visszaakasztjuk a függönyöket, római rolókat.</p>
             </div>
 
-        </div><!-- /row -->
-
-
-        <div class="row padding-top-2">
-
             <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4 col-md-offset-4 col-sm-offset-4">
+            <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
 
                 <!-- Title -->
@@ -124,7 +141,7 @@ include('header.php');
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>Cégünk vállalja bútorok (székek, ágyak, stb.) gyártását, és meglévő bútorok átkárpitozását.</p>
+                <p>Cégünk vállalja bútorok (székek, ágyak, stb.) gyártását, és meglévő bútorok felújítását, átkárpitozását.</p>
             </div>
 
 
@@ -138,7 +155,7 @@ include('header.php');
 
     <!-- Additional Services -->
     <section class="text-center bg-color">
-
+        <a id="csomagok"></a>
         <!-- Section General Title -->
         <div class="general-title">
             <h2>Lakberendezési csomagok</h2>

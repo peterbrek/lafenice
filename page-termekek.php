@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Szolgáltatások';
+$page_title = 'Termékek';
 $page_description = 'Exkluzív lakástextil';
 $page_keywords = '';
 include('header.php');
@@ -77,11 +77,6 @@ include('header.php');
                     </div>
                 </div>
 
-            </div>
-
-            <div class="row">
-
-
 
               <div class="col-sm-6 col-md-3 team-item">
                   <!-- Image -->
@@ -91,7 +86,7 @@ include('header.php');
                   <div class="team-caption">
                       <!-- Info -->
                       <h5>Posztertapéták</h5>
-                      <h5>&nbsp;</h5>
+                      <h5><a href="http://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
                       <h5>&nbsp;</h5>
                   </div>
               </div>
@@ -136,12 +131,152 @@ include('header.php');
                     </div>
                 </div>
 
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/design-falfestekek.jpg" alt="Design falfestékek">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Design falfestékek</h5>
+                        <h5><a href="https://www.designersguild.com/uk/perfectly-plain-paint/l1405">Designers Guild</a></h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/design-szegelylecek.jpg" alt="Design szegélylécek">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Design szegélylécek</h5>
+                        <h5><a href="https://www.oracdecor.com/">Orac Decor</a></h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
 
 
             </div>
 
 
         </div><!-- /container -->
+
+
+
+
+
+
+
+
+
+        <!-- Section General Title -->
+        <div class="general-title-small">
+            <h2>Melegburkolatok</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/designpadlok.jpg" alt="Design padlók">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Design padlók</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/fapadlo.jpg" alt="Fapadló">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Fapadló</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/wpc-kulteri-burkolatok.jpg" alt="WPC kültéri burkolatok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>WPC kültéri burkolatok</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Section General Title -->
+        <div class="general-title-small">
+            <h2>Hidegburkolatok</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item col-md-offset-3">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/kerlite.jpg" alt="Kerlite">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Kerlite</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/marrakesh-cementlapok.jpg" alt="Marrakesh cementlapok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Marrakesh cementlapok</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
 
 
 
@@ -387,6 +522,10 @@ include('header.php');
 
     <!-- Our Clients -->
     <div class="container text-center padding-top padding-bottom">
+      <div class="general-title-small">
+          <h2>Beszállítóink</h2>
+          <div class="title-divider"></div>
+      </div>
         <div class="row">
 
 
