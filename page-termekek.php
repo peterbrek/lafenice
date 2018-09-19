@@ -22,6 +22,8 @@ include('header.php');
         <div class="container">
             <div class="row">
 
+
+
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
@@ -154,6 +156,34 @@ include('header.php');
                         <h5>Design szegélylécek</h5>
                         <h5><a href="https://www.oracdecor.com/">Orac Decor</a></h5>
                         <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/karpitos-butorok.jpg" alt="Kárpitos bútorok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Kárpitos bútorok</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/len-termekek.jpg" alt="Len termékek">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Len termékek</h5>
+                        <h5><a href="https://www.sanelin.com/">Sanelin</a></h5>
+                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
