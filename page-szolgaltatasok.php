@@ -7,17 +7,95 @@ include('header.php');
 
 
 
+<!-- Additional Services -->
+<section class="text-center bg-color">
+    <a id="csomagok"></a>
+    <!-- Section General Title -->
+    <div class="general-title">
+        <h2>Lakberendezési csomagok</h2>
+        <div class="title-divider"></div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+          <a href="/szin-es-stilus-tanacsadas">
+            <div class="col-sm-6 col-md-3 team-item">
+                <!-- Image -->
+                <div class="thumbnail team-inner">
+                    <img src="assets/img/services/szin-es-stilus-tanacsadas.jpg" alt="Szín- és stílus tanácsadás">
+                </div>
+                <div class="team-caption">
+                    <!-- Info -->
+                    <h5>Szín- és stílus tanácsadás</h5>
+
+                </div>
+            </div>
+          </a>
+
+          <a href="/bronz-csomag">
+            <div class="col-sm-6 col-md-3 team-item">
+                <!-- Image -->
+                <div class="thumbnail team-inner">
+                    <img src="assets/img/services/bronz-csomag.jpg" alt="Bronz csomag">
+                </div>
+                <div class="team-caption">
+                    <!-- Info -->
+                    <h5>Bronz csomag (0–50 m<sup>2</sup>)</h5>
+
+                </div>
+            </div>
+          </a>
+
+          <a href="/silver-csomag">
+            <div class="col-sm-6 col-md-3 team-item">
+                <!-- Image -->
+                <div class="thumbnail team-inner">
+                    <img src="assets/img/services/silver-csomag.jpg" alt="Silver csomag">
+                </div>
+                <div class="team-caption">
+                    <!-- Info -->
+                    <h5>Silver csomag (50–150 m<sup>2</sup>)</h5>
+
+                </div>
+            </div>
+          </a>
+
+          <a href="/gold-csomag">
+            <div class="col-sm-6 col-md-3 team-item">
+                <!-- Image -->
+                <div class="thumbnail team-inner">
+                    <img src="assets/img/services/gold-csomag.jpg" alt="Tapéták">
+                </div>
+                <div class="team-caption">
+                    <!-- Info -->
+                    <h5>Gold csomag</h5>
+
+                </div>
+            </div>
+          </a>
+
+        </div>
+
+
+    </div><!-- /container -->
+
+</section>
+<!-- End Additional Services -->
+
+
 
 
 
 <!-- Section General Title -->
-<div class="general-title bg-color">
+<div class="general-title bg-color" style="background-color: #fff">
     <h2>Szolgáltatások</h2>
     <div class="title-divider"></div>
 </div>
 
 <!-- Site Wrapper -->
-<div class="site-wrapper">
+<div class="site-wrapper" style="padding-top: 0px">
+
+
 
     <!-- Services -->
     <div class="container text-center padding-bottom">
@@ -49,7 +127,7 @@ include('header.php');
                 <p>Sokéves tapasztalatunk, és a velünk dolgozó belsőépítészek véleményezésével segítünk Önnek megtalálni a legjobb-legszebb megoldást lakása árnyékolására.
                     Igény esetén látványtervek készítését is vállaljuk.
                 </p>
-                <p><a href="#csomagok">Lakberendezési csomagok</a></p>
+                <!-- <p><a href="#csomagok">Lakberendezési csomagok</a></p> -->
             </div>
 
             <!-- Services Item (icon, title and description for your service) -->
@@ -153,80 +231,7 @@ Forgalmazott termékeinket előre egyeztetett időpontban a helyszínre szállí
     </div><!-- /container -->
     <!-- End Services -->
 
-    <!-- Additional Services -->
-    <section class="text-center bg-color">
-        <a id="csomagok"></a>
-        <!-- Section General Title -->
-        <div class="general-title">
-            <h2>Lakberendezési csomagok</h2>
-            <div class="title-divider"></div>
-        </div>
 
-        <div class="container">
-            <div class="row">
-              <a href="/szin-es-stilus-tanacsadas">
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="assets/img/services/szin-es-stilus-tanacsadas.jpg" alt="Szín- és stílus tanácsadás">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Szín- és stílus tanácsadás</h5>
-
-                    </div>
-                </div>
-              </a>
-
-              <a href="/bronz-csomag">
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="assets/img/services/bronz-csomag.jpg" alt="Bronz csomag">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Bronz csomag (0–50 m<sup>2</sup>)</h5>
-
-                    </div>
-                </div>
-              </a>
-
-              <a href="/silver-csomag">
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="assets/img/services/silver-csomag.jpg" alt="Silver csomag">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Silver csomag (50–150 m<sup>2</sup>)</h5>
-
-                    </div>
-                </div>
-              </a>
-
-              <a href="/gold-csomag">
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="assets/img/services/gold-csomag.jpg" alt="Tapéták">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Gold csomag</h5>
-
-                    </div>
-                </div>
-              </a>
-
-            </div>
-
-
-        </div><!-- /container -->
-
-    </section>
-    <!-- End Additional Services -->
 
 </div><!-- /site-wrapper -->
 <!-- End Site Wrapper -->

@@ -79,12 +79,12 @@ if ($index_page) {
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
                                 <!-- <li class="active"><a href="index.html">Home</a></li> -->
-                                <li><a href="<?= URL?>/rolunk">Rólunk</a></li>
-                                <li><a href="<?= URL?>/szolgaltatasok">Szolgáltatások</a></li>
-                                <li><a href="<?= URL?>/termekek">Termékek</a></li>
-                                <li><a href="<?= URL?>/referenciak">Referenciák</a></li>
-                                <li><a href="<?= URL?>/kapcsolat">Kapcsolat</a></li>
-                                <li><a href="<?= URL?>/en" style="color:#DBC598;">English</a></li>
+                                <li><a href="/rolunk">Rólunk</a></li>
+                                <li><a href="/szolgaltatasok">Szolgáltatások</a></li>
+                                <li><a href="/termekek">Termékek</a></li>
+                                <li><a href="/referenciak">Referenciák</a></li>
+                                <li><a href="/kapcsolat">Kapcsolat</a></li>
+                                <li><a href="/en" style="color:#DBC598;">English</a></li>
                             </ul>
                         </div>
                     </div>

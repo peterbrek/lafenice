@@ -26,7 +26,7 @@ include('header.php');
         <div class="row padding-bottom">
             <div class="col-md-10 col-md-offset-1">
                 <!-- Description -->
-                <p>Amennyiben csak egy szobát alakítana át otthonából, ezt a csomagot ajánljuk. A csomag tartalmaz: 2db berendezési tervet bútorjavaslattal, 2 db stíluskoncepciót, 2db látványtervet a véglegesített stílus és berendezési koncepció alapján. Árajánlat a Lafenice kínálatából kiválasztott bútorokra, kiegészítőkre, és textilekre - ügyelve a részletekre.
+                <p>Amennyiben csak egy szobát alakítana át otthonából, ezt a csomagot ajánljuk. <br><br>A csomag tartalmaz: <br>– 2 db berendezési tervet bútorjavaslattal<br>– 2 db stíluskoncepciót<br>– 2 db látványtervet a véglegesített stílus és berendezési koncepció alapján. <br>– árajánlat a Lafenice kínálatából kiválasztott bútorokra, kiegészítőkre, és textilekre – ügyelve a részletekre.
 
 
                     </p>
@@ -41,7 +41,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="assets/img/services/bronz-csomag.jpg" alt="">
+                            <img src="assets/img/services/bronz-csomag-big.jpg" alt="">
                         </div>
 
 

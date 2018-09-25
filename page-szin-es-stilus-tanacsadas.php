@@ -40,7 +40,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="assets/img/services/szin-es-stilus-tanacsadas.jpg" alt="">
+                            <img src="assets/img/services/szin-es-stilus-tanacsadas-big.jpg" alt="">
                         </div>
 
 

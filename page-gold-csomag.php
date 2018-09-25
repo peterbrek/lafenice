@@ -42,7 +42,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="assets/img/services/gold-csomag.jpg" alt="">
+                            <img src="assets/img/services/gold-csomag-big.jpg" alt="">
                         </div>
 
 

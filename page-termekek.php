@@ -114,7 +114,7 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Kiegészítők, kárpitos bútorok</h5>
+                        <h5>Kiegészítők</h5>
                         <h5><a href="https://www.sanelin.com/">Sanelin</a>&nbsp;&nbsp;<a href="https://www.fischbacher.com/en/">Christian Fischbacher</a></h5>
                         <h5><a href="https://www.designersguild.com/uk/lifestyle/l1187">Designers Guild</a></h5>
                     </div>
@@ -128,7 +128,7 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Gyerekszobai termékek</h5>
-                        <h5><a href="http://www.casadeco.fr/en">Casadeco</a>&nbsp;&nbsp;<a href="http://www.camengo.fr/Collections/Default.aspx?option=EnfantThematique">Camengo</a></h5>
+                        <h5><a href="http://www.casadeco.fr/en/collections/liste/enfants">Casadeco</a>&nbsp;&nbsp;<a href="http://www.camengo.fr/Collections/Default.aspx?option=EnfantPap">Camengo</a></h5>
                         <h5>&nbsp;</h5>
                     </div>
                 </div>
@@ -159,19 +159,18 @@ include('header.php');
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
+                <!-- <div class="col-sm-6 col-md-3 team-item">
+
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/karpitos-butorok.jpg" alt="Kárpitos bútorok">
                     </div>
                     <div class="team-caption">
-                        <!-- Info -->
                         <h5>Kárpitos bútorok</h5>
                         <h5>&nbsp;</h5>
                         <h5>&nbsp;</h5>
 
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
@@ -193,6 +192,118 @@ include('header.php');
 
 
         </div><!-- /container -->
+
+
+
+
+
+
+
+
+
+        <!-- Section General Title -->
+        <div class="general-title-small">
+            <h2>Kárpitos bútorok</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/agatha-1.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Agatha 1</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/amelia-5.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Amelia 5</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/elton-2.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Elton 2</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/genoa-3.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Genoa 3</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/grosvenor-6.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Grosvenor 6</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/jacob-8.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Jacob 8</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/monaco-7.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Monaco 7</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/portofino-4.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Portofino 4</h5>
+                        <h5>&nbsp;</h5>
+                        <h5>&nbsp;</h5>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
 
 
 
@@ -328,7 +439,7 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Padlószőnyeg</h5>
-                        <h5><a href="http://www.carpetedition.com/homepage.html">Carpet Edition</a>&nbsp;&nbsp;<a href="https://www.warli.it/">Warli</a></h5>
+                        <h5><a href="https://www.jab.de/gb/en/productadvancedsearch?searchTerm=&r=08&page=1">JAB</a>&nbsp;&nbsp;<a href="https://www.egecarpets.com/">EgeCarpets</a></h5>
                         <h5>&nbsp;</h5>
                     </div>
                 </div>
