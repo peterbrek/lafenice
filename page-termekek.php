@@ -7,7 +7,7 @@ include('header.php');
 
 
 <!-- Site Wrapper -->
-<div class="site-wrapper">
+<!-- <div class="site-wrapper"> -->
 
 
     <!-- Additional Services -->
@@ -159,18 +159,18 @@ include('header.php');
                     </div>
                 </div>
 
-                <!-- <div class="col-sm-6 col-md-3 team-item">
+                <div class="col-sm-6 col-md-3 team-item">
 
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/karpitos-butorok.jpg" alt="Kárpitos bútorok">
                     </div>
                     <div class="team-caption">
                         <h5>Kárpitos bútorok</h5>
-                        <h5>&nbsp;</h5>
+                        <h5><a href="../karpitos-butorok">Modellek</a></h5>
                         <h5>&nbsp;</h5>
 
                     </div>
-                </div> -->
+                </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
@@ -202,7 +202,7 @@ include('header.php');
 
 
         <!-- Section General Title -->
-        <div class="general-title-small">
+        <!-- <div class="general-title-small">
             <h2>Kárpitos bútorok</h2>
             <div class="title-divider"></div>
         </div>
@@ -302,7 +302,7 @@ include('header.php');
 
             </div>
 
-        </div>
+        </div> -->
 
 
 
@@ -399,11 +399,11 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="assets/img/termekek/marrakesh-cementlapok.jpg" alt="Marrakesh cementlapok">
+                        <img src="assets/img/termekek/marrakesh-cementlapok.jpg" alt="Cementlapok">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Marrakesh cementlapok</h5>
+                        <h5>Cementlapok</h5>
                         <h5>&nbsp;</h5>
                         <h5>&nbsp;</h5>
                     </div>
@@ -719,7 +719,8 @@ include('header.php');
     </div><!-- /container -->
     <!-- End Our Clients -->
 
-</div><!-- /site-wrapper -->
+<!-- </div> -->
+<!-- /site-wrapper -->
 <!-- End Site Wrapper -->
 
 
