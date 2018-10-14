@@ -91,7 +91,7 @@ include('header.php');
                 <div class="row">
                   <!-- Section Description -->
                   <div class="col-md-10 col-md-offset-1">
-                    <p>Our company trades more than 20 years home textile products, curtain and decor fabrics and other textile accessories – quilts, pillows, rugs, curtain rods. Mostly our costumers are private people, but we are working for small Hotels, restaurants, offices as well.</p>
+                    <p>Our company trades more than 20 years home textile products, curtain and decor fabrics and other textile accessories – quilts, pillows, rugs, curtain rods. Mostly our customers are private people, but we are working for small Hotels, restaurants, offices as well.</p>
                   </div>
                 </div><!-- /row -->
             </div><!-- /container -->

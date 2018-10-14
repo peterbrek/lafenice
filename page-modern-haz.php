@@ -29,43 +29,43 @@ include('header.php');
                         <ul class="gallery-inner">
                           <!-- Image 1 -->
                             <li>
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
+                            <!-- Image 2 -->
+                            <li>
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
+                            <!-- Image 3 -->
+                            <li>
                                 <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
                                     <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
-                            <!-- Image 2 -->
+                            <!-- Image 4 -->
                             <li>
                                 <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
                                     <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
-                            <!-- Image 3 -->
+                            <!-- Image 5 -->
                             <li>
                                 <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
                                     <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
-                            <!-- Image 4 -->
+                            <!-- Image 6 -->
                             <li>
                                 <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
                                     <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
-                            <!-- Image 5 -->
-                            <li>
-                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
-                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
-                            <!-- Image 6 -->
-                            <li>
-                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
-                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
@@ -99,7 +99,7 @@ include('header.php');
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">
-                    <a href="<?= URL?>/referenciak" class="btn black-btn">További referenciák</a>
+                    <a href="/referenciak" class="btn black-btn">További referenciák</a>
                 </div>
 
             </section>

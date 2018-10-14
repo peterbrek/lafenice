@@ -734,6 +734,16 @@ a:focus {
 		padding-bottom: 20px;
 		background-color: #fff;
 		text-align: center;
+		border: 1px solid red;
+	}
+
+	.team-caption-ext {
+		padding: 10px;
+		border: 1px solid red;
+		padding-bottom: 10px;
+		background-color: #fff;
+		text-align: center;
+		min-height: 120px;
 	}
 
 	.team-inner img{

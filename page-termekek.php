@@ -29,7 +29,7 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/fuggonyanyagok.jpg" alt="Függönyanyagok">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Függönyanyagok</h5>
                         <h5><a href="https://www.houles.com/HU-en/fabrics">Houlès</a>&nbsp;&nbsp;&nbsp;<a href="https://www.jab.de/hu/en">JAB</a></h5>
@@ -43,11 +43,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/karpitanyagok.jpg" alt="Kárpitanyagok">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Kárpitanyagok</h5>
                         <h5><a href="https://www.jab.de/hu/en">JAB</a>&nbsp;&nbsp;&nbsp;<a href="https://www.houles.com/HU-en/fabrics">Houlès</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -57,11 +57,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/kulterianyagok.jpg" alt="Kültéri anyagok">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Kültéri anyagok</h5>
                         <h5><a href="https://www.sunbrella.com/">Sunbrella</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -71,7 +71,7 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/tapetak.jpg" alt="Tapéták">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Tapéták</h5>
                         <h5><a href="https://www.phillipjeffries.com/">Phillip Jeffries</a>&nbsp;&nbsp;<a href="http://www.casamance.com/en/collections/">Casamance</a></h5>
@@ -85,11 +85,11 @@ include('header.php');
                   <div class="thumbnail team-inner">
                       <img src="assets/img/termekek/posztertapetak.jpg" alt="">
                   </div>
-                  <div class="team-caption">
+                  <div class="team-caption-ext">
                       <!-- Info -->
                       <h5>Posztertapéták</h5>
                       <h5><a href="http://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
-                      <h5>&nbsp;</h5>
+
                   </div>
               </div>
 
@@ -98,11 +98,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/karnisok.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Karnisok</h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -112,7 +112,7 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/kiegeszitok.jpg" alt="Kiegészítők">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Kiegészítők</h5>
                         <h5><a href="https://www.sanelin.com/">Sanelin</a>&nbsp;&nbsp;<a href="https://www.fischbacher.com/en/">Christian Fischbacher</a></h5>
@@ -125,11 +125,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/gyerekszoba.jpg" alt="Gyerekszobai termékek">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Gyerekszobai termékek</h5>
                         <h5><a href="http://www.casadeco.fr/en/collections/liste/enfants">Casadeco</a>&nbsp;&nbsp;<a href="http://www.camengo.fr/Collections/Default.aspx?option=EnfantPap">Camengo</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -138,11 +138,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/design-falfestekek.jpg" alt="Design falfestékek">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Design falfestékek</h5>
                         <h5><a href="https://www.designersguild.com/uk/perfectly-plain-paint/l1405">Designers Guild</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -151,11 +151,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/design-szegelylecek.jpg" alt="Design szegélylécek">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Design szegélylécek</h5>
                         <h5><a href="https://www.oracdecor.com/">Orac Decor</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -164,10 +164,10 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/karpitos-butorok.jpg" alt="Kárpitos bútorok">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <h5>Kárpitos bútorok</h5>
                         <h5><a href="../karpitos-butorok">Modellek</a></h5>
-                        <h5>&nbsp;</h5>
+
 
                     </div>
                 </div>
@@ -177,11 +177,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="assets/img/termekek/len-termekek.jpg" alt="Len termékek">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Len termékek</h5>
                         <h5><a href="https://www.sanelin.com/">Sanelin</a></h5>
-                        <h5>&nbsp;</h5>
+
 
                     </div>
                 </div>
@@ -216,8 +216,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Agatha 1</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -228,8 +228,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Amelia 5</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -239,8 +239,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Elton 2</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -250,8 +250,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Genoa 3</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -261,8 +261,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Grosvenor 6</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -272,8 +272,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Jacob 8</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -283,8 +283,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Monaco 7</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -294,8 +294,8 @@ include('header.php');
                     </div>
                     <div class="team-caption">
                         <h5>Portofino 4</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -330,8 +330,8 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Design padlók</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -344,8 +344,8 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Fapadló</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -357,8 +357,8 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>WPC kültéri burkolatok</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -390,8 +390,8 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Kerlite</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -404,8 +404,8 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Cementlapok</h5>
-                        <h5>&nbsp;</h5>
-                        <h5>&nbsp;</h5>
+
+
                     </div>
                 </div>
 
@@ -440,7 +440,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Padlószőnyeg</h5>
                         <h5><a href="https://www.jab.de/gb/en/productadvancedsearch?searchTerm=&r=08&page=1">JAB</a>&nbsp;&nbsp;<a href="https://www.egecarpets.com/">EgeCarpets</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -454,7 +454,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Középszőnyeg</h5>
                         <h5><a href="http://www.carpetedition.com/homepage.html">Carpet Edition</a>&nbsp;&nbsp;<a href="https://www.warli.it/">Warli</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -486,7 +486,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Redőny</h5>
                         <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -500,7 +500,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Zsalúzia </h5>
                         <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -514,7 +514,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Napellenző </h5>
                         <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -528,7 +528,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Szúnyogháló </h5>
                         <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -559,7 +559,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Roletta</h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -573,7 +573,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Szalagfüggöny </h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -587,7 +587,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Lapfüggöny </h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -601,7 +601,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Reluxa </h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -619,7 +619,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Pliszé </h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 
@@ -633,7 +633,7 @@ include('header.php');
                         <!-- Info -->
                         <h5>Sávroló </h5>
                         <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
-                        <h5>&nbsp;</h5>
+
                     </div>
                 </div>
 

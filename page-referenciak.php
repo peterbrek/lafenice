@@ -22,7 +22,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/belvarosi-lakas">
+                <a href="/belvarosi-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -45,7 +45,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/tarsashazi-lakas">
+                <a href="/tarsashazi-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -68,11 +68,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/modern-haz">
+                <a href="/modern-haz">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="assets/img/portfolio/17_modern_haz/modern-haz-2.jpg" alt="Modern családi ház">
+                    <img src="assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="Modern családi ház">
 
                 </div>
                 <div class="project-inner-caption">
@@ -91,7 +91,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/videki-csaladi-haz">
+                <a href="/videki-csaladi-haz">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -114,7 +114,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/andrassy-uti-penthouse">
+                <a href="/andrassy-uti-penthouse">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -135,17 +135,17 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-lakas">
+                <a href="/spanyol-nyaralo">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg" alt="Budai lakás">
+                    <img src="assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="Spanyol nyaraló">
 
                 </div>
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Budai lakás</h3>
+                        <h3>Spanyol nyaraló</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -156,7 +156,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/toparti-nyaralo">
+                <a href="/toparti-nyaralo">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -177,7 +177,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/cordia-galerias-lakas">
+                <a href="/cordia-galerias-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -198,7 +198,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/obudai-lakas">
+                <a href="/obudai-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -219,7 +219,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/szemlohegyliget">
+                <a href="/szemlohegyliget">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -242,7 +242,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-villa">
+                <a href="/budai-villa">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -302,7 +302,7 @@ include('header.php');
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
-              <a href="<?= URL?>/stand-etterem">
+              <a href="/stand-etterem">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
@@ -323,7 +323,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-bevasarlokozpont-uzlete">
+                <a href="/budai-bevasarlokozpont-uzlete">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -344,7 +344,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/mirage-hotel-sarvar">
+                <a href="/mirage-hotel-sarvar">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -365,7 +365,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/st-andrea-borbar">
+                <a href="/st-andrea-borbar">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -386,7 +386,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/paulaner-etterem">
+                <a href="/paulaner-etterem">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -407,7 +407,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/duna-garden-hotel-etterem">
+                <a href="/duna-garden-hotel-etterem">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -450,7 +450,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/pliszek">
+                <a href="/pliszek">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
@@ -471,7 +471,7 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/tapetak">
+                <a href="/tapetak">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->

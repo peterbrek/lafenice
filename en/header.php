@@ -79,10 +79,10 @@ if ($index_page) {
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
                                 <!-- <li class="active"><a href="index.html">Home</a></li> -->
-                                <li><a href="<?= URL?>/about">About</a></li>
-                                <li><a href="<?= URL?>/services">Services</a></li>
-                                <li><a href="<?= URL?>/references">References</a></li>
-                                <li><a href="<?= URL?>/contact">Contact</a></li>
+                                <li><a href="/en/about">About</a></li>
+                                <li><a href="/en/services">Services</a></li>
+                                <li><a href="/en/references">References</a></li>
+                                <li><a href="/en/contact">Contact</a></li>
                                 <li><a href="http://www.lafenice.hu" style="color:#DBC598;">Magyar</a></li>
                             </ul>
                         </div>

@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Modern family house';
-$project_name = 'modern-haz';
-$project_folder = '17_modern_haz';
+$page_title = 'Summer house in Spain';
+$project_name = 'spanyol-nyaralo';
+$project_folder = '21_spanyol-nyaralo';
 $page_description = '';
 $page_keywords = '';
 include('header.php');
@@ -29,43 +29,43 @@ include('header.php');
                         <ul class="gallery-inner">
                           <!-- Image 1 -->
                             <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
+                                <a href="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
+                                    <img src="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
                             <!-- Image 2 -->
-                            <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
-                            <!-- Image 3 -->
-                            <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
-                            <!-- Image 4 -->
                             <li>
                                 <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
                                     <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
-                            <!-- Image 5 -->
+                            <!-- Image 3 -->
                             <li>
                                 <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
+                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
+                            <!-- Image 4 -->
+                            <li>
+                                <a href="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
+                                    <img src="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
+                            <!-- Image 5 -->
+                            <li>
+                                <a href="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
+                                    <img src="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
                             <!-- Image 6 -->
                             <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4b.jpg" alt="<?=$page_title ?>">
+                                <a href="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
+                                    <img src="../../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
@@ -77,7 +77,8 @@ include('header.php');
 
 
                         <div class="project-description">
-                            <p></p>
+                            <p>Ebbe a spanyol nyaralóba igyekeztünk a ház külső színeivel harmonizálva vöröses árnyalatokat használni. Az ARTE kollekciójában találtunk rá erre a stílusban tökéletesen illő tapétára. A bútorokat egyedileg készíttettük, Angliában. A hálószobákba a Thibaut cég IKAT mintás tapétáit, és textiljeit használtuk kiegészítőkként. </p>
+
                         </div>
                     </div> -->
 

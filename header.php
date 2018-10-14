@@ -48,8 +48,7 @@ if ($index_page) {
         <!-- Web Fonts -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset;=latin,cyrillic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
-        <!-- Google Map -->
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+        
 
     </head>
     <body>
