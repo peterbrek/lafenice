@@ -71,7 +71,7 @@ ezzel lágyítva a fehér falak hidegségét.
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">
-                    <a href="<?= URL?>/references" class="btn black-btn">See all our references</a>
+                    <a href="/en/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>

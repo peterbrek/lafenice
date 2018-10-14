@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Szemlőhegyliget Residential Park';
-$project_name = 'szemlohegyliget';
-$project_folder = '07_szemlohegyliget';
+$page_title = 'STAND Restaurant';
+$project_name = 'stand-etterem';
+$project_folder = '20_stand-etterem';
 $page_description = '';
 $page_keywords = '';
 include('header.php');
@@ -13,7 +13,7 @@ include('header.php');
 
 <!-- Section General Title -->
 <div class="general-title bg-color">
-    <h2>Szemlőhegyliget Residential Park</h2>
+    <h2><?=$page_title ?></h2>
     <div class="title-divider"></div>
 </div>
 
@@ -41,39 +41,20 @@ include('header.php');
                                 </a>
                             </li>
 
-                            <!-- Image 3 -->
-                            <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
-                            <!-- Image 4 -->
-                            <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li>
-
 
 
                         </ul>
                     </div>
 
-                    <!-- Project Information (location, date, category some information about your project) -->
-                    <!-- <div class="col-sm-5">
+                    <!-- Project Information (location, date, category some information about your project)
+                    <div class="col-sm-5">
 
-                        <!-- Description -->
-                        <!-- <div class="project-description">
-                            <p>Feladatunk a bemutatólakás külső és belső árnyékolása, és a tapéták szállítása volt.</p>
-							<p>Külső árnyékolás: megadott rall színben elektromos redőnyök, szúnyoghálóval felszerelve. Nappali: Designers Guild anyagból rolók, szerkezetek feszített drapéria mögé rejtve és bélelt dekor függönyökkel díszítve a JAB Chivasso anyagából.
-Háló és gyerekszobák: a Designers Guild és Prestigious Textiles tapétáival és anyagaiból varrt rolókkal tettük otthonossá.
-A konyha ablakaira pliszé került, mely könnyen tisztítható és hely takarékos, mivel az ablak peremébe van felszerelve.
-
-
-							</p>
+                        <div class="project-description">
+                            <p>Az üzlet oldalfalaira karnisokat szereltünk és selyemfényű bézs bársony dekorfüggönyt varrtunk rá,
+ezzel lágyítva a fehér falak hidegségét.
+</p>
                         </div>
-                    </div>
+                    </div>-->
 
                 </div><!-- row -->
             </div><!-- /container -->

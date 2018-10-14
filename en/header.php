@@ -39,17 +39,15 @@ if ($index_page) {
         <!--<link rel="icon" type="image/png" href="<?= URL?>assets/img/favicon.ico">-->
 
         <!-- Css Global Compulsory -->
-        <link rel="stylesheet" href="<?= URL?>/../assets/plugins/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/../assets/plugins/bootstrap/css/bootstrap.min.css">
         <!-- Css Implementing Plugins -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="<?= URL?>/../assets/plugins/lightbox/css/lightbox.css">
+        <link rel="stylesheet" href="/../assets/plugins/lightbox/css/lightbox.css">
         <!-- Css Theme -->
-        <link rel="stylesheet" href="<?= URL?>/../assets/css/style.css">
+        <link rel="stylesheet" href="/../assets/css/style.css">
         <!-- Web Fonts -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset;=latin,cyrillic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
-        <!-- Google Map -->
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 
     </head>
     <body>
@@ -81,9 +79,10 @@ if ($index_page) {
                                 <!-- <li class="active"><a href="index.html">Home</a></li> -->
                                 <li><a href="/en/about">About</a></li>
                                 <li><a href="/en/services">Services</a></li>
+                                <li><a href="/en/products">Products</a></li>
                                 <li><a href="/en/references">References</a></li>
                                 <li><a href="/en/contact">Contact</a></li>
-                                <li><a href="http://www.lafenice.hu" style="color:#DBC598;">Magyar</a></li>
+                                <li><a href="/../" style="color:#DBC598;">Magyar</a></li>
                             </ul>
                         </div>
                     </div>
