@@ -108,6 +108,24 @@ include('header.php');
                         <div class="project-inner">
                             <a href="referenciak">
                                 <!-- Image -->
+                                <img src="assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Belvárosi lakás</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
                                 <img src="assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
@@ -126,7 +144,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="referenciak">
                                 <!-- Image -->
-                                <img src="assets/img/portfolio/17_modern_haz/modern-haz-2.jpg">
+                                <img src="assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -180,12 +198,12 @@ include('header.php');
                         <div class="project-inner">
                             <a href="referenciak">
                                 <!-- Image -->
-                                <img src="assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg">
+                                <img src="assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Budai lakás</h3>
+                                        <h3>Spanyol nyaraló</h3>
                                         <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
@@ -229,23 +247,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">
-                                <!-- Image -->
-                                <img src="assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Óbudai lakás</h3>
-                                        <!--<p><small>2013</small></p>-->
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+                    
 
                 </div><!-- /row -->
             </div><!-- /container -->

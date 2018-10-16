@@ -91,7 +91,7 @@ include('header.php');
                 <div class="row">
                   <!-- Section Description -->
                   <div class="col-md-10 col-md-offset-1">
-                    <p>Our company trades more than 20 years home textile products, curtain and decor fabrics and other textile accessories – quilts, pillows, rugs, curtain rods. Mostly our customers are private people, but we are working for small Hotels, restaurants, offices as well.</p>
+                    <p>Our company trades more than 20 years home textile products, curtain and decor fabrics and other textile accessories – quilts, pillows, rugs, curtain rods.<br>Mostly our customers are private people, but we are working for small Hotels, restaurants, offices as well.</p>
                   </div>
                 </div><!-- /row -->
             </div><!-- /container -->
@@ -100,6 +100,24 @@ include('header.php');
             <!-- Projects -->
             <div class="container-fluid projects padding-top">
                 <div class="row">
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="references">
+                                <!-- Image -->
+                                <img src="../assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Downtown apartment</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
@@ -124,7 +142,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="../assets/img/portfolio/17_modern_haz/modern-haz-2.jpg">
+                                <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -178,12 +196,12 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="../assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg">
+                                <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Hillside flat</h3>
+                                        <h3>Summer house in Spain</h3>
                                         <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
@@ -227,23 +245,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="../assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Loft in Buda-side</h3>
-                                        <!--<p><small>2013</small></p>-->
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+                    
 
 
 

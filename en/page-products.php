@@ -87,7 +87,7 @@ include('header.php');
                   </div>
                   <div class="team-caption-ext">
                       <!-- Info -->
-                      <h5>Posztertapéták</h5>
+                      <h5>Wall murals</h5>
                       <h5><a href="http://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
 
                   </div>
@@ -136,11 +136,11 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="../assets/img/termekek/design-falfestekek.jpg" alt="Design falfestékek">
+                        <img src="../assets/img/termekek/design-falfestekek.jpg" alt="">
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Design falfestékek</h5>
+                        <h5>Design paints</h5>
                         <h5><a href="https://www.designersguild.com/uk/perfectly-plain-paint/l1405">Designers Guild</a></h5>
 
                     </div>
@@ -149,11 +149,11 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="../assets/img/termekek/design-szegelylecek.jpg" alt="Design szegélylécek">
+                        <img src="../assets/img/termekek/design-szegelylecek.jpg" alt="">
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Design szegélylécek</h5>
+                        <h5>Design mouldings</h5>
                         <h5><a href="https://www.oracdecor.com/">Orac Decor</a></h5>
 
                     </div>
@@ -175,11 +175,11 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="../assets/img/termekek/len-termekek.jpg" alt="Len termékek">
+                        <img src="../assets/img/termekek/len-termekek.jpg" alt="">
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Len termékek</h5>
+                        <h5>Linen products</h5>
                         <h5><a href="https://www.sanelin.com/">Sanelin</a></h5>
 
 

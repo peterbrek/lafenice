@@ -70,7 +70,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="Modern családi ház">
+                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -93,7 +93,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
+                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -138,7 +138,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="Summer house in Spain">
+                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -159,7 +159,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="Tóparti nyaraló">
+                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -180,7 +180,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="Cordia galériás lakás">
+                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
