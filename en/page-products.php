@@ -664,7 +664,7 @@ include('header.php');
     <!-- Our Clients -->
     <div class="container text-center padding-top padding-bottom">
       <div class="general-title-small">
-          <h2>Partners</h2>
+          <h2>Brands</h2>
           <div class="title-divider"></div>
       </div>
         <div class="row">
