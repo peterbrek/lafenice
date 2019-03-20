@@ -315,7 +315,7 @@ include('header.php');
 
         <!-- Section General Title -->
         <div class="general-title-small">
-            <h2>Melegburkolatok</h2>
+            <h2>Floors</h2>
             <div class="title-divider"></div>
         </div>
 
@@ -375,7 +375,7 @@ include('header.php');
 
         <!-- Section General Title -->
         <div class="general-title-small">
-            <h2>Hidegburkolatok</h2>
+            <h2>Tiles</h2>
             <div class="title-divider"></div>
         </div>
 
