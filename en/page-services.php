@@ -22,6 +22,22 @@ include('header.php');
     <!-- Services -->
     <div class="container text-center padding-bottom">
         <div class="row padding-top">
+            
+            <!-- Services Item (icon, title and description for your service) -->
+            <div class="col-sm-4 col-md-4">
+                <!-- Icon -->
+
+                <!-- Title -->
+                
+                    <div class="service-title">
+                        <h3><a href="http://designbutorcsomagok.hu/en/" target="_blank">Design Furniture Packages</a></h3>
+                    </div>
+                </a>
+                <div class="title-divider-small"></div>
+                <!-- Description -->
+                <p>Our furniture packages have been designed by Interior Designers as a full furnishing solution which includes everything required for immediate occupation.</p>
+            </div>
+            
 
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
@@ -50,6 +66,12 @@ include('header.php');
                 </p>
             </div>
 
+            
+
+        </div><!-- /row -->
+
+
+        <div class="row padding-top-2">
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
@@ -62,11 +84,6 @@ include('header.php');
                 <!-- Description -->
                 <p>One of our friendly Advisors will bring you samples to choose from and take precise measurements to ensure a perfect fit and preper the offer.</p>
             </div>
-
-        </div><!-- /row -->
-
-
-        <div class="row padding-top-2">
 
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
@@ -94,8 +111,14 @@ include('header.php');
                 <p>When your new window dressings are ready we’ll come back and fit them at a time that is convenient for you.</p>
             </div>
 
+            
+
+        </div><!-- /row -->
+
+
+        <div class="row padding-top-2">
             <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4">
+            <div class="col-sm-4 col-md-4 col-md-offset-2 col-sm-offset-2">
                 <!-- Icon -->
 
                 <!-- Title -->
@@ -107,13 +130,8 @@ include('header.php');
                 <p>With our complex services we visit you in your home take your curtains and blinds – and then bring it back and fit it.</p>
             </div>
 
-        </div><!-- /row -->
-
-
-        <div class="row padding-top-2">
-
             <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4 col-md-offset-4 col-sm-offset-4">
+            <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
 
                 <!-- Title -->

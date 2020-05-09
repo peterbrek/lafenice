@@ -10,75 +10,93 @@ include('header.php');
 <!-- Additional Services -->
 <section class="text-center bg-color">
     <a id="csomagok"></a>
+
     <!-- Section General Title -->
     <div class="general-title">
         <h2>Lakberendezési csomagok</h2>
         <div class="title-divider"></div>
     </div>
 
-    <div class="container">
-        <div class="row">
-          <a href="/szin-es-stilus-tanacsadas">
-            <div class="col-sm-6 col-md-3 team-item">
-                <!-- Image -->
-                <div class="thumbnail team-inner">
-                    <img src="assets/img/services/szin-es-stilus-tanacsadas.jpg" alt="Szín- és stílus tanácsadás">
-                </div>
-                <div class="team-caption">
-                    <!-- Info -->
-                    <h5>Szín- és stílus tanácsadás</h5>
+    <!-- Site Wrapper -->
+    <div class="site-wrapper" style="padding-top: 0px">
 
+        <div class="container text-center">
+            <div class="row">
+            <a href="http://designbutorcsomagok.hu/" target="_blank">
+                <div class="col-sm-4 col-md-4 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/services/design-butor-csomagok.jpg" alt="Design bútor csomagok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Design bútor csomagok</h5>
+
+                    </div>
                 </div>
+            </a>
+
+            <a href="/szin-es-stilus-tanacsadas">
+                <div class="col-sm-4 col-md-4 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/services/szin-es-stilus-tanacsadas.jpg" alt="Szín- és stílus tanácsadás">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Szín- és stílus tanácsadás</h5>
+
+                    </div>
+                </div>
+            </a>
+
+            <a href="/bronz-csomag">
+                <div class="col-sm-4 col-md-4 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/services/bronz-csomag.jpg" alt="Bronz csomag">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Bronz csomag (0–50 m<sup>2</sup>)</h5>
+
+                    </div>
+                </div>
+            </a>
+
+            <a href="/silver-csomag">
+                <div class="col-sm-4 col-md-4 team-item col-md-offset-2 col-sm-offset-2">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/services/silver-csomag.jpg" alt="Silver csomag">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Silver csomag (50–150 m<sup>2</sup>)</h5>
+
+                    </div>
+                </div>
+            </a>
+
+            <a href="/gold-csomag">
+                <div class="col-sm-4 col-md-4 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/services/gold-csomag.jpg" alt="Tapéták">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Gold csomag</h5>
+
+                    </div>
+                </div>
+            </a>
+
             </div>
-          </a>
-
-          <a href="/bronz-csomag">
-            <div class="col-sm-6 col-md-3 team-item">
-                <!-- Image -->
-                <div class="thumbnail team-inner">
-                    <img src="assets/img/services/bronz-csomag.jpg" alt="Bronz csomag">
-                </div>
-                <div class="team-caption">
-                    <!-- Info -->
-                    <h5>Bronz csomag (0–50 m<sup>2</sup>)</h5>
-
-                </div>
-            </div>
-          </a>
-
-          <a href="/silver-csomag">
-            <div class="col-sm-6 col-md-3 team-item">
-                <!-- Image -->
-                <div class="thumbnail team-inner">
-                    <img src="assets/img/services/silver-csomag.jpg" alt="Silver csomag">
-                </div>
-                <div class="team-caption">
-                    <!-- Info -->
-                    <h5>Silver csomag (50–150 m<sup>2</sup>)</h5>
-
-                </div>
-            </div>
-          </a>
-
-          <a href="/gold-csomag">
-            <div class="col-sm-6 col-md-3 team-item">
-                <!-- Image -->
-                <div class="thumbnail team-inner">
-                    <img src="assets/img/services/gold-csomag.jpg" alt="Tapéták">
-                </div>
-                <div class="team-caption">
-                    <!-- Info -->
-                    <h5>Gold csomag</h5>
-
-                </div>
-            </div>
-          </a>
-
-        </div>
 
 
-    </div><!-- /container -->
-
+        </div><!-- /container -->
+    </div>
 </section>
 <!-- End Additional Services -->
 
@@ -100,6 +118,21 @@ include('header.php');
     <!-- Services -->
     <div class="container text-center padding-bottom">
         <div class="row padding-top">
+
+            <!-- Services Item (icon, title and description for your service) -->
+            <div class="col-sm-4 col-md-4">
+                <!-- Icon -->
+
+                <!-- Title -->
+                
+                    <div class="service-title">
+                        <h3><a href="http://designbutorcsomagok.hu/" target="_blank">Design bútor csomagok</a></h3>
+                    </div>
+                </a>
+                <div class="title-divider-small"></div>
+                <!-- Description -->
+                <p>Belsőépítészeink által összeállított csomagjainkkal minimális idő- és energia ráfordítással harmonikus és igényes terek alakíthatóak ki.</p>
+            </div>
 
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
@@ -130,6 +163,13 @@ include('header.php');
                 <!-- <p><a href="#csomagok">Lakberendezési csomagok</a></p> -->
             </div>
 
+            
+
+        </div><!-- /row -->
+
+
+        <div class="row padding-top-2">
+
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
@@ -146,10 +186,6 @@ Forgalmazott termékeinket előre egyeztetett időpontban a helyszínre szállí
 </p>
             </div>
 
-        </div><!-- /row -->
-
-
-        <div class="row padding-top-2">
           <!-- Services Item (icon, title and description for your service) -->
           <div class="col-sm-4 col-md-4">
               <!-- Icon -->
@@ -176,8 +212,17 @@ Forgalmazott termékeinket előre egyeztetett időpontban a helyszínre szállí
                 <p>Magas minőségben, képzett szakemberekkel készítjük el a rendelt függönyöket.</p>
             </div>
 
-            <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4">
+           
+
+
+
+        </div><!-- /row -->
+
+
+        <div class="row padding-top-2">
+
+             <!-- Services Item (icon, title and description for your service) -->
+             <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
 
                 <!-- Title -->
@@ -190,14 +235,7 @@ Forgalmazott termékeinket előre egyeztetett időpontban a helyszínre szállí
                 </p>
             </div>
 
-
-
-        </div><!-- /row -->
-
-
-        <div class="row padding-top-2">
-
-            <div class="col-sm-4 col-md-4 col-md-offset-2 col-sm-offset-2">
+            <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
 
                 <!-- Title -->
