@@ -4,7 +4,7 @@
                 <div class="row">
                     <!-- Copyright -->
                     <div class="col-xs-4">
-                        <p>Copyright 2018 © La Fenice Kft.</p>
+                        <p>Copyright 2020 © La Fenice Kft.</p>
                     </div>
                     <!-- Footer Social Icons -->
                     <div class="col-xs-4 text-center">

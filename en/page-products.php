@@ -195,7 +195,104 @@ include('header.php');
 
 
 
+<!-- Section General Title -->
+<div class="general-title-small">
+            <h2>Hotel furniture</h2>
+            <div class="title-divider"></div>
+        </div>
 
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-chairs.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Chairs</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/chairs/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-armchairs.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Armchairs</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/armchairs/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-stools.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Stools</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/stools/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-tables.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Tables</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/tables/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-lounge-chair.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Lounge chairs benches pouff</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/lounge-chair/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-sofas.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Sofas</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/sofas-en/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-sofa-bed.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Sofa bed</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/sofa-bed/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+                
+
+
+            </div>
+
+        </div>
 
 
 
@@ -669,50 +766,57 @@ include('header.php');
       </div>
         <div class="row">
 
-
-
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-offset-3 col-md-2">
                 <a href="http://www.jab.de/" target="_blank">
                     <img src="../assets/img/termekek/jab-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.fischbacher.com/" target="_blank">
                     <img src="../assets/img/termekek/fsb-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="https://www.renson-outdoor.com/" target="_blank">
                     <img src="../assets/img/termekek/renson-logo.jpg" width="160px">
                 </a>
             </div>
+            </div>
+        <div class="row">
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-offset-3 col-md-2">
                 <a href="https://www.houles.com/" target="_blank">
                     <img src="../assets/img/termekek/houles-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.leha.eu/" target="_blank">
                     <img src="../assets/img/termekek/leha-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.sanelin.com/" target="_blank">
                     <img src="../assets/img/termekek/sanelin-logo.jpg" width="160px">
                 </a>
             </div>
-
+            </div>
+        <div class="row">
+            <!-- Client Image  -->
+            <div class="col-sm-4 col-md-offset-5 col-sm-offset-4 col-md-2">
+                <a href="https://www.tmsillerias.com/en/" target="_blank">
+                    <img src="../assets/img/termekek/grupotm-logo.jpg" width="160px">
+                </a>
+            </div>
 
 
         </div><!-- /row -->
