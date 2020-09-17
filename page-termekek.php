@@ -123,12 +123,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="assets/img/termekek/gyerekszoba.jpg" alt="Gyerekszobai termékek">
+                        <img src="assets/img/termekek/lampak.jpg">
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Gyerekszobai termékek</h5>
-                        <h5><a href="http://www.casadeco.fr/en/collections/liste/enfants">Casadeco</a>&nbsp;&nbsp;<a href="http://www.camengo.fr/Collections/Default.aspx?option=EnfantPap">Camengo</a></h5>
+                        <h5>Lámpák</h5>
+                        <h5><a href="https://rothschildbickers.com/">Rothschild & Bickers</a></h5>
 
                     </div>
                 </div>
@@ -343,7 +343,7 @@ include('header.php');
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Fotelek</h5>
+                        <h5>Karfás székek</h5>
                         <h5><a href="https://www.tmsillerias.com/en/tipo/armchairs/">TM Sillerias</a></h5>
                     </div>
                 </div>
@@ -379,7 +379,19 @@ include('header.php');
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Lounge fotelek, puffok</h5>
+                        <h5>Lounge fotelek</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/lounge-chair/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="assets/img/termekek/hotel-pouff.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Puffok</h5>
                         <h5><a href="https://www.tmsillerias.com/en/tipo/lounge-chair/">TM Sillerias</a></h5>
                     </div>
                 </div>
@@ -403,7 +415,7 @@ include('header.php');
                     </div>
                     <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Kinyitható kanapék</h5>
+                        <h5>Kihúzható kanapék</h5>
                         <h5><a href="https://www.tmsillerias.com/en/tipo/sofa-bed/">TM Sillerias</a></h5>
                     </div>
                 </div>

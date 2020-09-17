@@ -23,30 +23,45 @@ include('header.php');
     <div class="container text-center">
 
         <!-- Our Studio (your studio information and images for slider) -->
-        <div class="row padding-bottom">
+        <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <!-- Description -->
                 <p>Our company trades more than 20 years home textile products, curtain and decor fabrics and other textile accessories<br/> – quilts, pillows, rugs, curtain rods. <br/>Mostly our customers are private people, but we are working for small Hotels, restaurants, offices as well.</p>
 
 
             </div>
+        </div><!-- /row -->
+            
+            <div class="container text-center padding-bottom">
+                <div class="row padding-top">
 
-            <!-- Slider for images from your studio -->
-            <div class="col-md-10 col-md-offset-1 padding-top">
-                <div id="studio-carousel" class="carousel slide" data-ride="carousel">
-
-                    <div class="carousel-inner">
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
                         <!-- Image -->
-                        <div class="item active">
-                            <img src="../assets/img/rolunk/bemutatotermunk.jpg" alt="Bemutatótermünk">
+                        <img src="../assets/img/rolunk/about-1.jpg">       
                         </div>
-
-
                     </div>
-                </div>
+
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
+                        <!-- Image -->
+                        <img src="../assets/img/rolunk/about-2.jpg">       
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
+                        <!-- Image -->
+                        <img src="../assets/img/rolunk/about-3.jpg">       
+                        </div>
+                    </div>
+
+                </div><!-- /row -->
             </div>
 
-             <div class="col-md-10 col-md-offset-1" style="margin-top: 45px">
+
+
+             <div class="col-md-10 col-md-offset-1 padding-bottom">
                 <!-- Description -->
                 <a href="http://www.seedlingtrust.org/" target="_blank"><img src="../assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Seedling Trust" style="height: 125px; margin-bottom: 25px;"></a>
                 <p>We support highly the <a href="http://www.seedlingtrust.org/" target="_blank">Seedling Trust.</a></p>
@@ -54,7 +69,7 @@ include('header.php');
 
             </div>
 
-        </div><!-- /row -->
+        
     </div><!-- /container -->
     <!-- End About Us -->
 

@@ -23,32 +23,73 @@ include('header.php');
     <div class="container text-center">
 
         <!-- Our Studio (your studio information and images for slider) -->
-        <div class="row padding-bottom">
+        <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <!-- Description -->
-                <p>Cégünk 20 éve foglalkozik exkluzív lakástextilek, függönyanyagok, karnisok, tapéták, és egyéb kiegészítők <br/>– ágytakarók, párnák, szőnyegek – forgalmazásával és készítésével.<br/>
-                    Megrendelőink elsősorban magánemberek, de vállaljuk kisebb Hotelek, éttermek, irodák árnyékolástechnikai munkáit is
-                    </p>
+                <p>Cégünk 20 éve foglalkozik belsőépítészeti termékek forgalmazásával. Elsősorban exkluzív lakástextilek, függönyanyagok, karnisok, tapéták, és egyéb kiegészítők – ágytakarók, párnák, szőnyegek – forgalmazásával és készítésével.</p>
+                <p>2016 óta működik párhuzamosan a London-i irodánk is.<br/>
+                Ezzel egyidőben kezdtük a magyar piacon még nem megtalálható, elsősorban angol gyártók termékeit <br/>(kárpitos bútorok, lámpák) forgalmazni.</p>
+                <p>Megrendelőink elsősorban magánemberek, de vállaljuk hotelek, éttermek, irodák <br/>árnyékolástechnikai és bútorozási munkáit is.</p>
+                <p>2020 februárja óta képviseljük a piacon a spanyol TMSillerias közületi bútorokat gyártó céget.</p>
+
 
 
             </div>
-
+        </div><!-- /row -->
             <!-- Slider for images from your studio -->
-            <div class="col-md-10 col-md-offset-1 padding-top">
+            <!-- <div class="col-md-10 col-md-offset-1 padding-top">
                 <div id="studio-carousel" class="carousel slide" data-ride="carousel">
 
                     <div class="carousel-inner">
-                        <!-- Image -->
+                        
                         <div class="item active">
-                            <img src="assets/img/rolunk/bemutatotermunk.jpg" alt="Bemutatótermünk">
+                            <img src="assets/img/rolunk/about-1.jpg">
+                        </div>
+
+                        
+                        <div class="item">
+                            <img src="assets/img/rolunk/about-2.jpg">
+                        </div>
+
+                       
+                        <div class="item">
+                            <img src="assets/img/rolunk/about-3.jpg">
                         </div>
 
 
                     </div>
                 </div>
+            </div> -->
+
+            <div class="container text-center padding-bottom">
+                <div class="row padding-top">
+
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
+                        <!-- Image -->
+                        <img src="assets/img/rolunk/about-1.jpg">       
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
+                        <!-- Image -->
+                        <img src="assets/img/rolunk/about-2.jpg">       
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail projects-thumbnail">
+                        <!-- Image -->
+                        <img src="assets/img/rolunk/about-3.jpg">       
+                        </div>
+                    </div>
+
+                </div><!-- /row -->
             </div>
 
-             <div class="col-md-10 col-md-offset-1" style="margin-top: 45px">
+
+             <div class="col-md-10 col-md-offset-1 padding-bottom">
                 <!-- Description -->
                 <a href="http://www.seedlingtrust.org/" target="_blank"><img src="assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Csemete Alapítvány" style="height: 125px; margin-bottom: 25px;"></a>
                 <p>A La Fenice kiemelten támogatja a <a href="http://www.seedlingtrust.org/" target="_blank">Csemete Alapítványt.</a></p>
@@ -56,7 +97,7 @@ include('header.php');
 
             </div>
 
-        </div><!-- /row -->
+        
     </div><!-- /container -->
     <!-- End About Us -->
 
