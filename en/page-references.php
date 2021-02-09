@@ -20,19 +20,19 @@ include('header.php');
         <div class="row">
         
         <!-- Project Item (image, title, city, date and description of project)-->
-            <!-- <div class="col-sm-6 col-md-4 project-item">
+            <div class="col-sm-6 col-md-4 project-item">
                 <a href="/en/london-luxury-apartment-by-hyde-park">
                 <div class="thumbnail projects-thumbnail">
-                <img src="assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
+                <img src="../assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
                 </div>
                 <div class="project-inner-caption">
                         <div class="project-title-pos">
-                        <h3>London – Luxury apartment by Hyde Park</h3>
+                        <h3>London – Hyde Park apartment</h3>
                         <p>&nbsp;</p>
                         </div>
                 </div>
                 </a>
-            </div> -->
+            </div>
 
 
             <!-- Project Item (image, title, city, date and description of project)-->

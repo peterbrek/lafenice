@@ -21,19 +21,19 @@ include('header.php');
 
 
             <!-- Project Item (image, title, city, date and description of project)-->
-            <!-- <div class="col-sm-6 col-md-4 project-item">
+            <div class="col-sm-6 col-md-4 project-item">
                 <a href="/london-luxury-apartment-by-hyde-park">
                 <div class="thumbnail projects-thumbnail">
-                <img src="assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
+                <img src="assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-6b.jpg">
                 </div>
                 <div class="project-inner-caption">
                         <div class="project-title-pos">
-                        <h3>London – Luxuslakás Hyde Park mellett</h3>
+                        <h3>London – Hyde Park lakás</h3>
                         <p>&nbsp;</p>
                         </div>
                 </div>
                 </a>
-            </div> -->
+            </div>
 
 
             <!-- Project Item (image, title, city, date and description of project)-->
