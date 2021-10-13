@@ -20,6 +20,22 @@ include('header.php');
         <div class="row">
         
         <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                <a href="/en/london-south-kensington">
+                <div class="thumbnail projects-thumbnail">
+                <img src="../assets/img/portfolio/30_london-south-kensington/london-south-kensington-1b.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – S. Kensington apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
                 <a href="/en/london-luxury-apartment-by-hyde-park">
                 <div class="thumbnail projects-thumbnail">
@@ -502,7 +518,7 @@ include('header.php');
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Buda mall</h3>
+                        <h3>Retail shop</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -523,7 +539,7 @@ include('header.php');
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Mirage Hotel Sárvár</h3>
+                        <h3>BOUTIQUE HOTEL</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -553,69 +569,7 @@ include('header.php');
             </a>
             </div> -->
 
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/en/st-andrea-borbar">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>St. Andrea Wine Bar</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/en/paulaner-etterem">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Paulaner Restaurant</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/en/duna-garden-hotel-etterem">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Duna Garden Hotel and Restaurant</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
+            
         </div>
     </div>
 

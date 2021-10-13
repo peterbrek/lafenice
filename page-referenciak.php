@@ -22,6 +22,22 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-south-kensington">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/30_london-south-kensington/london-south-kensington-1b.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – South Kensington lakás</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+
+            <!-- Project Item (image, title, city, date and description of project)-->
+            <div class="col-sm-6 col-md-4 project-item">
                 <a href="/london-luxury-apartment-by-hyde-park">
                 <div class="thumbnail projects-thumbnail">
                 <img src="assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-6b.jpg">
@@ -531,67 +547,67 @@ include('header.php');
             </div>
 
             <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
+            <!-- <div class="col-sm-6 col-md-4 project-item">
                 <a href="/st-andrea-borbar">
-                <div class="thumbnail projects-thumbnail">
+                <div class="thumbnail projects-thumbnail"> -->
 
                     <!-- Image -->
-                    <img src="assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár">
+                    <!-- <img src="assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár"> -->
 
-                </div>
-                <div class="project-inner-caption">
+                <!-- </div>
+                <div class="project-inner-caption"> -->
                     <!-- Title -->
-                    <div class="project-title-pos">
+                    <!-- <div class="project-title-pos">
                         <h3>St. Andrea Borbár</h3>
                         <p>&nbsp;</p>
-                    </div>
+                    </div> -->
                     <!-- City and Date -->
 
-                </div>
+                <!-- </div>
             </a>
-            </div>
+            </div> -->
 
             <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
+            <!-- <div class="col-sm-6 col-md-4 project-item">
                 <a href="/paulaner-etterem">
-                <div class="thumbnail projects-thumbnail">
+                <div class="thumbnail projects-thumbnail"> -->
 
                     <!-- Image -->
-                    <img src="assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem">
+                    <!-- <img src="assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem"> -->
 
-                </div>
-                <div class="project-inner-caption">
+                <!-- </div>
+                <div class="project-inner-caption"> -->
                     <!-- Title -->
-                    <div class="project-title-pos">
+                    <!-- <div class="project-title-pos">
                         <h3>Paulaner étterem</h3>
                         <p>&nbsp;</p>
-                    </div>
+                    </div> -->
                     <!-- City and Date -->
 
-                </div>
-            </a>
-            </div>
+                <!-- </div> -->
+            <!-- </a>
+            </div> -->
 
             <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
+            <!-- <div class="col-sm-6 col-md-4 project-item">
                 <a href="/duna-garden-hotel-etterem">
-                <div class="thumbnail projects-thumbnail">
+                <div class="thumbnail projects-thumbnail"> -->
 
                     <!-- Image -->
-                    <img src="assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem">
+                    <!-- <img src="assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem"> -->
 
-                </div>
-                <div class="project-inner-caption">
+                <!-- </div>
+                <div class="project-inner-caption"> -->
                     <!-- Title -->
-                    <div class="project-title-pos">
+                    <!-- <div class="project-title-pos">
                         <h3>Duna Garden Hotel és Étterem</h3>
                         <p>&nbsp;</p>
-                    </div>
+                    </div> -->
                     <!-- City and Date -->
 
-                </div>
-            </a>
-            </div>
+                <!-- </div> -->
+            <!-- </a>
+            </div> -->
 
         </div>
     </div>
