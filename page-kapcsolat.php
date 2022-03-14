@@ -21,13 +21,13 @@ include('header.php');
         <div class="row">
                     <!-- Address -->
                     <div class="col-sm-4 col-md-4">
-                        <!-- <h3>Bemutatótermünk</h3>
+                        <h3>Irodánk</h3>
                         <address>
                             <p>
-                                Andrássy út 14., 1. emelet<br>
-                                1061 Budapest<br>
+                            Keleti Károly utca 15A/B<br>
+                            1024 Budapest<br>
                             </p>
-                        </address> -->
+                        </address>
 
                         <!-- <address>
                             <p>
@@ -50,13 +50,13 @@ include('header.php');
                     </div>
                     <!-- Working Hours -->
                     <div class="col-sm-4 col-md-4">
-                        <!-- <h3>Nyitvatartás</h3>
+                        <h3>Nyitvatartás</h3>
                         <address>
                             <p>
-                                hétfőtől szombatig<br>
+                                
                                 bejelentkezés alapján
                             </p>
-                        </address> -->
+                        </address>
                     </div>
                 </div><!-- /row -->
                 <!-- End All Contact Information -->

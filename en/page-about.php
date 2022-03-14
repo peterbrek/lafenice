@@ -156,38 +156,21 @@ include('header.php');
                 </div>
 
             </div>
+
                 <div class="row row-centered">
                 <!-- Team Item (name, information about, image, social icons) -->
                 <div class="col-sm-4 col-md-3 team-item col-centered">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="../assets/img/rolunk/szakonyi_zsuzsanna.jpg">
+                        <img src="../assets/img/rolunk/petofi-annamaria.jpg">
                     </div>
                     <div class="team-caption">
                         <!-- Name -->
                         <div class="team-title-small">
-                            <h3>Zsuzsanna Szakonyi</h3>
+                            <h3> Annamária Petőfi</h3>
                         </div>
                         <!-- Info -->
-                        <h5>interior designer</h5>
-
-                    </div>
-                </div>
-
-
-                <!-- Team Item (name, information about, image, social icons) -->
-                <div class="col-sm-4 col-md-3 team-item col-centered">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="../assets/img/rolunk/takacs_nora.jpg">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Name -->
-                        <div class="team-title-small">
-                            <h3>Nóra Takács</h3>
-                        </div>
-                        <!-- Info -->
-                        <h5>architect, interior designer</h5>
+                        <h5>interior designer, office manager </h5>
 
                     </div>
                 </div>

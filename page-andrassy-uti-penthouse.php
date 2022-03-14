@@ -86,7 +86,7 @@ Az otthonba a szőnyegeket a Designers Guild-től rendeltük.</p>
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">  
-                    <a href="<?= URL?>/referenciak" class="btn black-btn">További referenciák</a>
+                    <a href="/referenciak" class="btn black-btn">További referenciák</a>
                 </div>
 
             </section>

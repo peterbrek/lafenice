@@ -103,7 +103,7 @@ A modern konyha ablakain pliszé az egyszerűség kedvéért.
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">  
-                    <a href="<?= URL?>/referenciak" class="btn black-btn">További referenciák</a>
+                    <a href="/referenciak" class="btn black-btn">További referenciák</a>
                 </div>
 
             </section>

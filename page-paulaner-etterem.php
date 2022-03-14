@@ -76,7 +76,7 @@ Kiegészítésként méretre varrtunk szennytaszító damaszt anyagból terítő
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">  
-                    <a href="<?= URL?>/referenciak" class="btn black-btn">További referenciák</a>
+                    <a href="/referenciak" class="btn black-btn">További referenciák</a>
                 </div>
 
             </section>

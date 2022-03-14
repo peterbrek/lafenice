@@ -17,8 +17,68 @@ include('header.php');
 
     <!-- Projects -->
     <div class="container">
-        <div class="row">
+    <div class="row">
 
+        <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/toparti-haz-lakehouse">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>Tóparti ház</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-w8-apartment">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/london-w8-apartment/london-w8-apartment.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – W8 apartman</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-bow-apartment">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/london-bow-apartment/london-bow-apartment.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – Bow apartman</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+    </div>
+    <div class="row">
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/villa-lakas">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/villa-lakas/villa-lakas.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>Villa lakás</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
