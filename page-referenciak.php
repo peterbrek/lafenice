@@ -514,6 +514,28 @@ include('header.php');
                         </div>
 
 
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                                    <a href="/hotel-mandilla">
+                                    <div class="thumbnail projects-thumbnail">
+
+                                        <!-- Image -->
+                                        <img src="assets/img/portfolio/hotel-mandilla/hotel-mandilla-1b.jpg">
+
+                                    </div>
+                                    <div class="project-inner-caption">
+                                        <!-- Title -->
+                                        <div class="project-title-pos">
+                                            <h3>Hotel Mandilla Köveskál</h3>
+                                            <p>&nbsp;</p>
+                                        </div>
+                                        <!-- City and Date -->
+
+                                    </div>
+                                </a>
+                                </div>
+
+
 
         <!-- Project Item (image, title, city, date and description of project)-->
         <div class="col-sm-6 col-md-4 project-item">
@@ -585,26 +607,7 @@ include('header.php');
             </a>
             </div>
 
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/mirage-hotel-sarvar">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="assets/img/portfolio/10_kozuleti_mirage-hotel-sarvar/kozuleti_mirage-hotel-sarvar-1.jpg" alt="Mirage Hotel Sárvár">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Mirage Hotel Sárvár</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
+           
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <!-- <div class="col-sm-6 col-md-4 project-item">
