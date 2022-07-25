@@ -18,7 +18,54 @@ include('header.php');
     <!-- Projects -->
     <div class="container">
         <div class="row">
-        
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/en/costadelsol-apartman">
+                <div class="thumbnail projects-thumbnail">
+                <img src="../assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>Costa del Sol apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/en/london-sw-apartman">
+                <div class="thumbnail projects-thumbnail">
+                <img src="../assets/img/portfolio/london-sw-apartman/london-sw-apartman-1.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/en/polgari-lakas">
+                <div class="thumbnail projects-thumbnail">
+                <img src="../assets/img/portfolio/polgari-lakas/polgari-lakas-1.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>Downtown apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+
+
             <!-- Project Item -->
             <div class="col-sm-6 col-md-4 project-item">
                 <a href="/en/toparti-haz-lakehouse">
@@ -547,17 +594,17 @@ include('header.php');
 
         <!-- Project Item (image, title, city, date and description of project)-->
         <div class="col-sm-6 col-md-4 project-item">
-                            <a href="/en/london-show-flat-for-developer">
+                            <a href="/en/burkolat-bemutatoterem">
                             <div class="thumbnail projects-thumbnail">
 
                                 <!-- Image -->
-                                <img src="../assets/img/portfolio/29_london-show-flat-for-developer/london-show-flat-for-developer-1b.jpg">
+                                <img src="../assets/img/portfolio/burkolat-bemutatoterem/burkolat-bemutatoterem-1.jpg">
 
                             </div>
                             <div class="project-inner-caption">
                                 <!-- Title -->
                                 <div class="project-title-pos">
-                                    <h3>London show flat for developer</h3>
+                                    <h3>Floors show room</h3>
                                     <p>&nbsp;</p>
                                 </div>
                                 <!-- City and Date -->
