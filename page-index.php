@@ -108,6 +108,61 @@ include('header.php');
                         <div class="project-inner">
                             <a href="referenciak">
                                 <!-- Image -->
+                                <img src="assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Costa del Sol apartman</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/london-sw-apartman/london-sw-apartman-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>London – apartman</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/polgari-lakas/polgari-lakas-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Polgári lakás</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
                                 <img src="assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
@@ -121,61 +176,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">
-                                <!-- Image -->
-                                <img src="assets/img/portfolio/london-w8-apartment/london-w8-apartment.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>London – W8 apartman</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">
-                                <!-- Image -->
-                                <img src="assets/img/portfolio/london-bow-apartment/london-bow-apartment.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>London – Bow apartman</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="referenciak">
-                                <!-- Image -->
-                                <img src="assets/img/portfolio/villa-lakas/villa-lakas.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Villa lakás</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    
+                   
 
                 </div><!-- /row -->
             </div><!-- /container -->
