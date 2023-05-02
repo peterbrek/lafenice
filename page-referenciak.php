@@ -21,6 +21,21 @@ include('header.php');
 
             <!-- Project Item -->
             <div class="col-sm-6 col-md-4 project-item">
+                <a href="/luxus-airbnb">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>Luxus Airbnb</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item -->
+            <div class="col-sm-6 col-md-4 project-item">
                 <a href="/costadelsol-apartman">
                 <div class="thumbnail projects-thumbnail">
                 <img src="assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">

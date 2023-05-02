@@ -44,7 +44,7 @@ include('header.php');
                 <div class="item" style="background-image: url('assets/img/slider-images/image2.jpg');">
                     <!-- Image -->
                     <!-- TODO -->
-                   <!-- <img src="assets/img/slider-images/image2.jpg">
+                   <!-- <img src="assets/img/slider-images/image2.jpg">-->
                     <!-- Description -->
                     <div class="carousel-caption header-carousel-caption">
 
@@ -60,7 +60,7 @@ include('header.php');
                <div class="item" style="background-image: url('assets/img/slider-images/image3.jpg');">
                     <!-- Image -->
                     <!-- TODO -->
-                   <!-- <img src="assets/img/slider-images/image3.jpg">
+                   <!-- <img src="assets/img/slider-images/image3.jpg">-->
                     <!-- Description -->
                    <div class="carousel-caption header-carousel-caption">
 
@@ -101,7 +101,31 @@ include('header.php');
 
             <!-- Projects -->
             <div class="container-fluid projects padding-top">
+            <div class="row">
+
+            <!-- Projects -->
+            <div class="container-fluid projects padding-top">
                 <div class="row">
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="referenciak">
+                                <!-- Image -->
+                                <img src="assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Luxus Airbnb</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
@@ -159,13 +183,13 @@ include('header.php');
                     </div>
 
                     <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
+                    <!--  <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
                             <a href="referenciak">
-                                <!-- Image -->
+
                                 <img src="assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
                                 <div class="project-caption">
-                                    <!-- Title and Date -->
+
                                     <div class="project-details">
 
                                         <h3>Tóparti ház</h3>
@@ -174,7 +198,7 @@ include('header.php');
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
                    
 

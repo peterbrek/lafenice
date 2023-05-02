@@ -43,8 +43,8 @@ include('header.php');
                         <address>
                             <p>
                                 <a href="mailto:info@lafenice.hu"><i class="fa fa-envelope-o"></i>info@lafenice.hu</a><br>
-                                <i class="fa fa-phone"></i>+36 70 635 7992<br>
                                 <i class="fa fa-phone"></i>+36 70 635 7991<br>
+                                <i class="fa fa-phone"></i>+36 70 635 7992<br>
                             </p>
                         </address>
                     </div>
