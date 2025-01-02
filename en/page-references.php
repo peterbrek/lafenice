@@ -534,6 +534,75 @@ include('header.php');
         <div class="row">
 
 
+               <!-- Project Item (image, title, city, date and description of project)-->
+               <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/en/hotel-cardoner">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="../assets/img/portfolio/hotel-cardoner/hotel-cardoner-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Hotel Cardoner</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/en/tura-iroda">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="../assets/img/portfolio/tura-iroda/tura-iroda-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Tura Office</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/en/ugron-kastely">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="../assets/img/portfolio/ugron-kastely/ugron-kastely-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Ugron Castle</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+
+
+
 <!-- Project Item (image, title, city, date and description of project)-->
 <div class="col-sm-6 col-md-4 project-item">
                     <a href="/en/up-hotel-budapest">
