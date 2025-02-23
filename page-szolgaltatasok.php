@@ -22,7 +22,7 @@ include('header.php');
 
         <div class="container text-center">
             <div class="row">
-            <a href="http://designbutorcsomagok.hu/" target="_blank">
+            <a href="http://www.lafenice.hu/designbutorcsomagok" target="_blank">
                 <div class="col-sm-4 col-md-4 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
