@@ -22,7 +22,7 @@ include('header.php');
 
         <div class="container text-center">
             <div class="row">
-            <a href="http://www.lafenice.hu/designbutorcsomagok" target="_blank">
+            <a href="https://www.lafenice.hu/designbutorcsomagok" target="_blank">
                 <div class="col-sm-4 col-md-4 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
@@ -126,7 +126,7 @@ include('header.php');
                 <!-- Title -->
                 
                     <div class="service-title">
-                        <h3><a href="http://designbutorcsomagok.hu/" target="_blank">Design bútor csomagok</a></h3>
+                        <h3><a href="https://designbutorcsomagok.hu/" target="_blank">Design bútor csomagok</a></h3>
                     </div>
                 </a>
                 <div class="title-divider-small"></div>

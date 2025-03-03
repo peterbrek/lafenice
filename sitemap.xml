@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.lafenice.hu/</loc>
+  <loc>https://www.lafenice.hu/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/rolunk</loc>
+  <loc>https://www.lafenice.hu/rolunk</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/szolgaltatasok</loc>
+  <loc>https://www.lafenice.hu/szolgaltatasok</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/referenciak</loc>
+  <loc>https://www.lafenice.hu/referenciak</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/kapcsolat</loc>
+  <loc>https://www.lafenice.hu/kapcsolat</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/videki-csaladi-haz</loc>
+  <loc>https://www.lafenice.hu/videki-csaladi-haz</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/andrassy-uti-penthouse</loc>
+  <loc>https://www.lafenice.hu/andrassy-uti-penthouse</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/budai-lakas</loc>
+  <loc>https://www.lafenice.hu/budai-lakas</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/toparti-nyaralo</loc>
+  <loc>https://www.lafenice.hu/toparti-nyaralo</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/cordia-galerias-lakas</loc>
+  <loc>https://www.lafenice.hu/cordia-galerias-lakas</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/obudai-lakas</loc>
+  <loc>https://www.lafenice.hu/obudai-lakas</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/szemlohegyliget</loc>
+  <loc>https://www.lafenice.hu/szemlohegyliget</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/budai-villa</loc>
+  <loc>https://www.lafenice.hu/budai-villa</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/budai-bevasarlokozpont-uzlete</loc>
+  <loc>https://www.lafenice.hu/budai-bevasarlokozpont-uzlete</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/mirage-hotel-sarvar</loc>
+  <loc>https://www.lafenice.hu/mirage-hotel-sarvar</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/golfklub</loc>
+  <loc>https://www.lafenice.hu/golfklub</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/st-andrea-borbar</loc>
+  <loc>https://www.lafenice.hu/st-andrea-borbar</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/paulaner-etterem</loc>
+  <loc>https://www.lafenice.hu/paulaner-etterem</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/duna-garden-hotel-etterem</loc>
+  <loc>https://www.lafenice.hu/duna-garden-hotel-etterem</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/pliszek</loc>
+  <loc>https://www.lafenice.hu/pliszek</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://www.lafenice.hu/tapetak</loc>
+  <loc>https://www.lafenice.hu/tapetak</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>

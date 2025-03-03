@@ -1,5 +1,5 @@
 <?php
-define('URL', 'http://www.lafenice.hu/en'); // az oldal URL-je
+define('URL', 'https://www.lafenice.hu/en'); // az oldal URL-je
 define('PATH', realpath('.'));
 
 $url = $_REQUEST['url'];

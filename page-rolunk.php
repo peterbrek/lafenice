@@ -91,8 +91,8 @@ include('header.php');
 
              <div class="col-md-10 col-md-offset-1 padding-bottom">
                 <!-- Description -->
-                <a href="http://www.seedlingtrust.org/" target="_blank"><img src="assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Csemete Alapítvány" style="height: 125px; margin-bottom: 25px;"></a>
-                <p>A La Fenice kiemelten támogatja a <a href="http://www.seedlingtrust.org/" target="_blank">Csemete Alapítványt.</a></p>
+                <a href="https://www.seedlingtrust.org/" target="_blank"><img src="assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Csemete Alapítvány" style="height: 125px; margin-bottom: 25px;"></a>
+                <p>A La Fenice kiemelten támogatja a <a href="https://www.seedlingtrust.org/" target="_blank">Csemete Alapítványt.</a></p>
 
 
             </div>
