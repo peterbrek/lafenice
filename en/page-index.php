@@ -225,10 +225,9 @@ include('header.php');
                     <!-- Services Item (icon, title and description for your service) -->
                     <div class="col-sm-4">
                         <!-- Icon -->
-                        <div>
-                            <!-- TODO -->
+                        <!-- <div>
                             <img src="../assets/img/services/forgalmazas.svg" width="35%">
-                        </div>
+                        </div>-->
                         <!-- Title -->
                         <div class="service-title">
                             <h3>Trading fabrics, and home textiles</h3>
@@ -241,10 +240,9 @@ include('header.php');
                     <!-- Services Item (icon, title and description for your service) -->
                     <div class="col-sm-4">
                         <!-- Icon -->
-                        <div>
-                            <!-- TODO -->
+                        <!-- <div> 
                             <img src="../assets/img/services/tanacsadas.svg" width="35%">
-                        </div>
+                        </div>-->
                         <!-- Title -->
                         <div class="service-title">
                             <h3>Styling and consultations</h3>
@@ -258,10 +256,9 @@ include('header.php');
                     <!-- Services Item (icon, title and description for your service) -->
                     <div class="col-sm-4">
                         <!-- Icon -->
-                       <div>
-                            <!-- TODO -->
+                       <!-- <div>
                             <img src="../assets/img/services/felmeres.svg" width="35%">
-                        </div>
+                        </div> -->
                         <!-- Title -->
                         <div class="service-title">
                             <h3>Your home appointment</h3>
